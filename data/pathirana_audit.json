@@ -1,0 +1,42 @@
+{
+  "player_id": 8661,
+  "name": "Matheesha Pathirana",
+  "role": "Marquee Overseas Death Specialist",
+  "release_franchise": "Kolkata Knight Riders",
+  "previous_salary_cr": 18.0,
+  "total_career_deliveries": 1279,
+  "pressure_deliveries": 281,
+  "pressure_legal_balls": 248,
+  "pressure_runs": 415,
+  "pressure_wickets": 20,
+  "pressure_economy": 10.04,
+  "baseline_economy": 8.49,
+  "delta_economy": 1.55,
+  "extras_breakdown": {
+    "legal_dots_and_bat_runs": 238,
+    "wides": 32,
+    "other_noballs": 1,
+    "overstep_noballs": 0,
+    "legbyes": 8,
+    "byes": 2
+  },
+  "death_phase_pressure": {
+    "deliveries": 190,
+    "legal_balls": 168,
+    "wides": 21,
+    "noballs": 1,
+    "runs": 301,
+    "wickets": 15,
+    "death_economy": 10.75,
+    "population_benchmark_death_economy": 11.15,
+    "economy_advantage": -0.4,
+    "strike_rate_balls_per_wicket": 11.2
+  },
+  "competition_split": {
+    "ipl_balls": 181,
+    "t20i_balls": 100,
+    "unique_matches": 26
+  },
+  "pps_score": 59.27,
+  "ppr_percentile": 91.95
+}

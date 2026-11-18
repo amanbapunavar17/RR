@@ -1,0 +1,5432 @@
+[
+  {
+    "player_id":2258,
+    "player_name":"Sanju Samson",
+    "role":"Batter",
+    "match_id":20203,
+    "balls":27,
+    "runs":56,
+    "wickets":1,
+    "metric_value":207.4
+  },
+  {
+    "player_id":2258,
+    "player_name":"Sanju Samson",
+    "role":"Batter",
+    "match_id":20212,
+    "balls":11,
+    "runs":21,
+    "wickets":1,
+    "metric_value":190.9
+  },
+  {
+    "player_id":2258,
+    "player_name":"Sanju Samson",
+    "role":"Batter",
+    "match_id":31274,
+    "balls":21,
+    "runs":42,
+    "wickets":1,
+    "metric_value":200.0
+  },
+  {
+    "player_id":2258,
+    "player_name":"Sanju Samson",
+    "role":"Batter",
+    "match_id":40695,
+    "balls":36,
+    "runs":62,
+    "wickets":1,
+    "metric_value":172.2
+  },
+  {
+    "player_id":2258,
+    "player_name":"Sanju Samson",
+    "role":"Batter",
+    "match_id":40716,
+    "balls":13,
+    "runs":26,
+    "wickets":1,
+    "metric_value":200.0
+  },
+  {
+    "player_id":2258,
+    "player_name":"Sanju Samson",
+    "role":"Batter",
+    "match_id":45394,
+    "balls":11,
+    "runs":25,
+    "wickets":1,
+    "metric_value":227.3
+  },
+  {
+    "player_id":2258,
+    "player_name":"Sanju Samson",
+    "role":"Batter",
+    "match_id":48594,
+    "balls":8,
+    "runs":10,
+    "wickets":1,
+    "metric_value":125.0
+  },
+  {
+    "player_id":2258,
+    "player_name":"Sanju Samson",
+    "role":"Batter",
+    "match_id":50135,
+    "balls":4,
+    "runs":9,
+    "wickets":0,
+    "metric_value":225.0
+  },
+  {
+    "player_id":2258,
+    "player_name":"Sanju Samson",
+    "role":"Batter",
+    "match_id":50407,
+    "balls":8,
+    "runs":16,
+    "wickets":0,
+    "metric_value":200.0
+  },
+  {
+    "player_id":2258,
+    "player_name":"Sanju Samson",
+    "role":"Batter",
+    "match_id":54210,
+    "balls":3,
+    "runs":5,
+    "wickets":0,
+    "metric_value":166.7
+  },
+  {
+    "player_id":2258,
+    "player_name":"Sanju Samson",
+    "role":"Batter",
+    "match_id":54213,
+    "balls":1,
+    "runs":4,
+    "wickets":0,
+    "metric_value":400.0
+  },
+  {
+    "player_id":813,
+    "player_name":"Jos Buttler",
+    "role":"Batter",
+    "match_id":16316,
+    "balls":3,
+    "runs":5,
+    "wickets":0,
+    "metric_value":166.7
+  },
+  {
+    "player_id":813,
+    "player_name":"Jos Buttler",
+    "role":"Batter",
+    "match_id":25160,
+    "balls":21,
+    "runs":40,
+    "wickets":1,
+    "metric_value":190.5
+  },
+  {
+    "player_id":813,
+    "player_name":"Jos Buttler",
+    "role":"Batter",
+    "match_id":28065,
+    "balls":3,
+    "runs":10,
+    "wickets":0,
+    "metric_value":333.3
+  },
+  {
+    "player_id":813,
+    "player_name":"Jos Buttler",
+    "role":"Batter",
+    "match_id":31250,
+    "balls":34,
+    "runs":74,
+    "wickets":1,
+    "metric_value":217.6
+  },
+  {
+    "player_id":813,
+    "player_name":"Jos Buttler",
+    "role":"Batter",
+    "match_id":31274,
+    "balls":5,
+    "runs":2,
+    "wickets":0,
+    "metric_value":40.0
+  },
+  {
+    "player_id":813,
+    "player_name":"Jos Buttler",
+    "role":"Batter",
+    "match_id":36208,
+    "balls":10,
+    "runs":25,
+    "wickets":1,
+    "metric_value":250.0
+  },
+  {
+    "player_id":813,
+    "player_name":"Jos Buttler",
+    "role":"Batter",
+    "match_id":40036,
+    "balls":3,
+    "runs":7,
+    "wickets":1,
+    "metric_value":233.3
+  },
+  {
+    "player_id":813,
+    "player_name":"Jos Buttler",
+    "role":"Batter",
+    "match_id":40698,
+    "balls":30,
+    "runs":52,
+    "wickets":1,
+    "metric_value":173.3
+  },
+  {
+    "player_id":813,
+    "player_name":"Jos Buttler",
+    "role":"Batter",
+    "match_id":40728,
+    "balls":1,
+    "runs":1,
+    "wickets":0,
+    "metric_value":100.0
+  },
+  {
+    "player_id":813,
+    "player_name":"Jos Buttler",
+    "role":"Batter",
+    "match_id":40758,
+    "balls":8,
+    "runs":17,
+    "wickets":1,
+    "metric_value":212.5
+  },
+  {
+    "player_id":813,
+    "player_name":"Jos Buttler",
+    "role":"Batter",
+    "match_id":40762,
+    "balls":2,
+    "runs":2,
+    "wickets":1,
+    "metric_value":100.0
+  },
+  {
+    "player_id":813,
+    "player_name":"Jos Buttler",
+    "role":"Batter",
+    "match_id":50381,
+    "balls":33,
+    "runs":56,
+    "wickets":0,
+    "metric_value":169.7
+  },
+  {
+    "player_id":813,
+    "player_name":"Jos Buttler",
+    "role":"Batter",
+    "match_id":50942,
+    "balls":11,
+    "runs":29,
+    "wickets":1,
+    "metric_value":263.6
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":14107,
+    "balls":6,
+    "runs":18,
+    "wickets":0,
+    "metric_value":300.0
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":14119,
+    "balls":10,
+    "runs":12,
+    "wickets":1,
+    "metric_value":120.0
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":14126,
+    "balls":15,
+    "runs":26,
+    "wickets":0,
+    "metric_value":173.3
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":14130,
+    "balls":25,
+    "runs":35,
+    "wickets":1,
+    "metric_value":140.0
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":14163,
+    "balls":8,
+    "runs":14,
+    "wickets":0,
+    "metric_value":175.0
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":20185,
+    "balls":17,
+    "runs":39,
+    "wickets":0,
+    "metric_value":229.4
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":20211,
+    "balls":4,
+    "runs":3,
+    "wickets":1,
+    "metric_value":75.0
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":20215,
+    "balls":3,
+    "runs":2,
+    "wickets":1,
+    "metric_value":66.7
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":20222,
+    "balls":17,
+    "runs":28,
+    "wickets":0,
+    "metric_value":164.7
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":20225,
+    "balls":1,
+    "runs":6,
+    "wickets":0,
+    "metric_value":600.0
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":21585,
+    "balls":1,
+    "runs":6,
+    "wickets":0,
+    "metric_value":600.0
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":30060,
+    "balls":5,
+    "runs":7,
+    "wickets":1,
+    "metric_value":140.0
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":30063,
+    "balls":22,
+    "runs":49,
+    "wickets":1,
+    "metric_value":222.7
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":31261,
+    "balls":32,
+    "runs":63,
+    "wickets":1,
+    "metric_value":196.9
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":40037,
+    "balls":2,
+    "runs":3,
+    "wickets":0,
+    "metric_value":150.0
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":40709,
+    "balls":7,
+    "runs":11,
+    "wickets":0,
+    "metric_value":157.1
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":40714,
+    "balls":29,
+    "runs":56,
+    "wickets":1,
+    "metric_value":193.1
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":42028,
+    "balls":22,
+    "runs":40,
+    "wickets":0,
+    "metric_value":181.8
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":45391,
+    "balls":1,
+    "runs":1,
+    "wickets":0,
+    "metric_value":100.0
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":45392,
+    "balls":2,
+    "runs":1,
+    "wickets":1,
+    "metric_value":50.0
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":45394,
+    "balls":25,
+    "runs":53,
+    "wickets":1,
+    "metric_value":212.0
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":45513,
+    "balls":16,
+    "runs":30,
+    "wickets":0,
+    "metric_value":187.5
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":50137,
+    "balls":10,
+    "runs":14,
+    "wickets":1,
+    "metric_value":140.0
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":50144,
+    "balls":3,
+    "runs":1,
+    "wickets":1,
+    "metric_value":33.3
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":50341,
+    "balls":8,
+    "runs":15,
+    "wickets":1,
+    "metric_value":187.5
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":50354,
+    "balls":29,
+    "runs":37,
+    "wickets":1,
+    "metric_value":127.6
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":50379,
+    "balls":23,
+    "runs":54,
+    "wickets":0,
+    "metric_value":234.8
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":50406,
+    "balls":1,
+    "runs":1,
+    "wickets":0,
+    "metric_value":100.0
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":50407,
+    "balls":20,
+    "runs":35,
+    "wickets":1,
+    "metric_value":175.0
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":54211,
+    "balls":25,
+    "runs":50,
+    "wickets":0,
+    "metric_value":200.0
+  },
+  {
+    "player_id":7897,
+    "player_name":"Namboori Tilak Varma",
+    "role":"Batter",
+    "match_id":54213,
+    "balls":32,
+    "runs":35,
+    "wickets":0,
+    "metric_value":109.4
+  },
+  {
+    "player_id":8101,
+    "player_name":"Ashutosh Sharma",
+    "role":"Batter",
+    "match_id":30072,
+    "balls":16,
+    "runs":31,
+    "wickets":0,
+    "metric_value":193.8
+  },
+  {
+    "player_id":8101,
+    "player_name":"Ashutosh Sharma",
+    "role":"Batter",
+    "match_id":31241,
+    "balls":15,
+    "runs":33,
+    "wickets":0,
+    "metric_value":220.0
+  },
+  {
+    "player_id":8101,
+    "player_name":"Ashutosh Sharma",
+    "role":"Batter",
+    "match_id":31245,
+    "balls":16,
+    "runs":31,
+    "wickets":2,
+    "metric_value":193.8
+  },
+  {
+    "player_id":8101,
+    "player_name":"Ashutosh Sharma",
+    "role":"Batter",
+    "match_id":31251,
+    "balls":23,
+    "runs":59,
+    "wickets":0,
+    "metric_value":256.5
+  },
+  {
+    "player_id":8101,
+    "player_name":"Ashutosh Sharma",
+    "role":"Batter",
+    "match_id":31271,
+    "balls":6,
+    "runs":1,
+    "wickets":1,
+    "metric_value":16.7
+  },
+  {
+    "player_id":8101,
+    "player_name":"Ashutosh Sharma",
+    "role":"Batter",
+    "match_id":31276,
+    "balls":5,
+    "runs":8,
+    "wickets":1,
+    "metric_value":160.0
+  },
+  {
+    "player_id":8101,
+    "player_name":"Ashutosh Sharma",
+    "role":"Batter",
+    "match_id":31283,
+    "balls":2,
+    "runs":5,
+    "wickets":0,
+    "metric_value":250.0
+  },
+  {
+    "player_id":8101,
+    "player_name":"Ashutosh Sharma",
+    "role":"Batter",
+    "match_id":40697,
+    "balls":28,
+    "runs":59,
+    "wickets":0,
+    "metric_value":210.7
+  },
+  {
+    "player_id":8101,
+    "player_name":"Ashutosh Sharma",
+    "role":"Batter",
+    "match_id":40722,
+    "balls":10,
+    "runs":13,
+    "wickets":1,
+    "metric_value":130.0
+  },
+  {
+    "player_id":8101,
+    "player_name":"Ashutosh Sharma",
+    "role":"Batter",
+    "match_id":40739,
+    "balls":3,
+    "runs":2,
+    "wickets":1,
+    "metric_value":66.7
+  },
+  {
+    "player_id":8101,
+    "player_name":"Ashutosh Sharma",
+    "role":"Batter",
+    "match_id":40741,
+    "balls":6,
+    "runs":7,
+    "wickets":1,
+    "metric_value":116.7
+  },
+  {
+    "player_id":8101,
+    "player_name":"Ashutosh Sharma",
+    "role":"Batter",
+    "match_id":40748,
+    "balls":26,
+    "runs":41,
+    "wickets":1,
+    "metric_value":157.7
+  },
+  {
+    "player_id":8101,
+    "player_name":"Ashutosh Sharma",
+    "role":"Batter",
+    "match_id":40759,
+    "balls":16,
+    "runs":18,
+    "wickets":1,
+    "metric_value":112.5
+  },
+  {
+    "player_id":8101,
+    "player_name":"Ashutosh Sharma",
+    "role":"Batter",
+    "match_id":48027,
+    "balls":6,
+    "runs":13,
+    "wickets":1,
+    "metric_value":216.7
+  },
+  {
+    "player_id":8101,
+    "player_name":"Ashutosh Sharma",
+    "role":"Batter",
+    "match_id":50142,
+    "balls":10,
+    "runs":19,
+    "wickets":1,
+    "metric_value":190.0
+  },
+  {
+    "player_id":8101,
+    "player_name":"Ashutosh Sharma",
+    "role":"Batter",
+    "match_id":50352,
+    "balls":10,
+    "runs":14,
+    "wickets":1,
+    "metric_value":140.0
+  },
+  {
+    "player_id":8101,
+    "player_name":"Ashutosh Sharma",
+    "role":"Batter",
+    "match_id":50369,
+    "balls":5,
+    "runs":14,
+    "wickets":1,
+    "metric_value":280.0
+  },
+  {
+    "player_id":8101,
+    "player_name":"Ashutosh Sharma",
+    "role":"Batter",
+    "match_id":50372,
+    "balls":18,
+    "runs":35,
+    "wickets":1,
+    "metric_value":194.4
+  },
+  {
+    "player_id":8101,
+    "player_name":"Ashutosh Sharma",
+    "role":"Batter",
+    "match_id":50376,
+    "balls":8,
+    "runs":18,
+    "wickets":0,
+    "metric_value":225.0
+  },
+  {
+    "player_id":8101,
+    "player_name":"Ashutosh Sharma",
+    "role":"Batter",
+    "match_id":50383,
+    "balls":2,
+    "runs":7,
+    "wickets":0,
+    "metric_value":350.0
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Batter",
+    "match_id":15609,
+    "balls":14,
+    "runs":30,
+    "wickets":1,
+    "metric_value":214.3
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Batter",
+    "match_id":15610,
+    "balls":20,
+    "runs":40,
+    "wickets":1,
+    "metric_value":200.0
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Batter",
+    "match_id":16425,
+    "balls":40,
+    "runs":55,
+    "wickets":1,
+    "metric_value":137.5
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Batter",
+    "match_id":20201,
+    "balls":6,
+    "runs":14,
+    "wickets":1,
+    "metric_value":233.3
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Batter",
+    "match_id":20218,
+    "balls":22,
+    "runs":36,
+    "wickets":1,
+    "metric_value":163.6
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Batter",
+    "match_id":20221,
+    "balls":5,
+    "runs":11,
+    "wickets":0,
+    "metric_value":220.0
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Batter",
+    "match_id":20239,
+    "balls":7,
+    "runs":11,
+    "wickets":0,
+    "metric_value":157.1
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Batter",
+    "match_id":28057,
+    "balls":4,
+    "runs":12,
+    "wickets":0,
+    "metric_value":300.0
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Batter",
+    "match_id":28957,
+    "balls":5,
+    "runs":12,
+    "wickets":0,
+    "metric_value":240.0
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Batter",
+    "match_id":30072,
+    "balls":11,
+    "runs":12,
+    "wickets":1,
+    "metric_value":109.1
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Batter",
+    "match_id":31241,
+    "balls":18,
+    "runs":27,
+    "wickets":1,
+    "metric_value":150.0
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Batter",
+    "match_id":33806,
+    "balls":2,
+    "runs":8,
+    "wickets":0,
+    "metric_value":400.0
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Batter",
+    "match_id":33807,
+    "balls":2,
+    "runs":0,
+    "wickets":1,
+    "metric_value":0.0
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Batter",
+    "match_id":37928,
+    "balls":7,
+    "runs":9,
+    "wickets":1,
+    "metric_value":128.6
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Batter",
+    "match_id":38627,
+    "balls":21,
+    "runs":29,
+    "wickets":1,
+    "metric_value":138.1
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Batter",
+    "match_id":47261,
+    "balls":5,
+    "runs":7,
+    "wickets":1,
+    "metric_value":140.0
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Batter",
+    "match_id":47262,
+    "balls":11,
+    "runs":19,
+    "wickets":0,
+    "metric_value":172.7
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Batter",
+    "match_id":47976,
+    "balls":15,
+    "runs":26,
+    "wickets":0,
+    "metric_value":173.3
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Batter",
+    "match_id":47977,
+    "balls":3,
+    "runs":12,
+    "wickets":0,
+    "metric_value":400.0
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Batter",
+    "match_id":47979,
+    "balls":2,
+    "runs":4,
+    "wickets":1,
+    "metric_value":200.0
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Batter",
+    "match_id":50508,
+    "balls":2,
+    "runs":0,
+    "wickets":1,
+    "metric_value":0.0
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Batter",
+    "match_id":55559,
+    "balls":13,
+    "runs":17,
+    "wickets":1,
+    "metric_value":130.8
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Batter",
+    "match_id":55560,
+    "balls":41,
+    "runs":86,
+    "wickets":0,
+    "metric_value":209.8
+  },
+  {
+    "player_id":143,
+    "player_name":"Dinesh Karthik",
+    "role":"Batter",
+    "match_id":14099,
+    "balls":1,
+    "runs":1,
+    "wickets":0,
+    "metric_value":100.0
+  },
+  {
+    "player_id":143,
+    "player_name":"Dinesh Karthik",
+    "role":"Batter",
+    "match_id":14106,
+    "balls":8,
+    "runs":20,
+    "wickets":0,
+    "metric_value":250.0
+  },
+  {
+    "player_id":143,
+    "player_name":"Dinesh Karthik",
+    "role":"Batter",
+    "match_id":14115,
+    "balls":14,
+    "runs":34,
+    "wickets":1,
+    "metric_value":242.9
+  },
+  {
+    "player_id":143,
+    "player_name":"Dinesh Karthik",
+    "role":"Batter",
+    "match_id":14120,
+    "balls":6,
+    "runs":17,
+    "wickets":0,
+    "metric_value":283.3
+  },
+  {
+    "player_id":143,
+    "player_name":"Dinesh Karthik",
+    "role":"Batter",
+    "match_id":14129,
+    "balls":3,
+    "runs":0,
+    "wickets":1,
+    "metric_value":0.0
+  },
+  {
+    "player_id":143,
+    "player_name":"Dinesh Karthik",
+    "role":"Batter",
+    "match_id":14132,
+    "balls":4,
+    "runs":6,
+    "wickets":0,
+    "metric_value":150.0
+  },
+  {
+    "player_id":143,
+    "player_name":"Dinesh Karthik",
+    "role":"Batter",
+    "match_id":14143,
+    "balls":8,
+    "runs":17,
+    "wickets":1,
+    "metric_value":212.5
+  },
+  {
+    "player_id":143,
+    "player_name":"Dinesh Karthik",
+    "role":"Batter",
+    "match_id":14154,
+    "balls":11,
+    "runs":11,
+    "wickets":1,
+    "metric_value":100.0
+  },
+  {
+    "player_id":143,
+    "player_name":"Dinesh Karthik",
+    "role":"Batter",
+    "match_id":15407,
+    "balls":16,
+    "runs":28,
+    "wickets":0,
+    "metric_value":175.0
+  },
+  {
+    "player_id":143,
+    "player_name":"Dinesh Karthik",
+    "role":"Batter",
+    "match_id":15409,
+    "balls":4,
+    "runs":9,
+    "wickets":0,
+    "metric_value":225.0
+  },
+  {
+    "player_id":143,
+    "player_name":"Dinesh Karthik",
+    "role":"Batter",
+    "match_id":16042,
+    "balls":7,
+    "runs":6,
+    "wickets":1,
+    "metric_value":85.7
+  },
+  {
+    "player_id":143,
+    "player_name":"Dinesh Karthik",
+    "role":"Batter",
+    "match_id":16062,
+    "balls":9,
+    "runs":17,
+    "wickets":0,
+    "metric_value":188.9
+  },
+  {
+    "player_id":143,
+    "player_name":"Dinesh Karthik",
+    "role":"Batter",
+    "match_id":16063,
+    "balls":7,
+    "runs":4,
+    "wickets":1,
+    "metric_value":57.1
+  },
+  {
+    "player_id":143,
+    "player_name":"Dinesh Karthik",
+    "role":"Batter",
+    "match_id":17627,
+    "balls":10,
+    "runs":14,
+    "wickets":0,
+    "metric_value":140.0
+  },
+  {
+    "player_id":143,
+    "player_name":"Dinesh Karthik",
+    "role":"Batter",
+    "match_id":20189,
+    "balls":8,
+    "runs":9,
+    "wickets":1,
+    "metric_value":112.5
+  },
+  {
+    "player_id":143,
+    "player_name":"Dinesh Karthik",
+    "role":"Batter",
+    "match_id":20204,
+    "balls":11,
+    "runs":26,
+    "wickets":1,
+    "metric_value":236.4
+  },
+  {
+    "player_id":143,
+    "player_name":"Dinesh Karthik",
+    "role":"Batter",
+    "match_id":20216,
+    "balls":16,
+    "runs":21,
+    "wickets":2,
+    "metric_value":131.2
+  },
+  {
+    "player_id":143,
+    "player_name":"Dinesh Karthik",
+    "role":"Batter",
+    "match_id":20223,
+    "balls":9,
+    "runs":15,
+    "wickets":0,
+    "metric_value":166.7
+  },
+  {
+    "player_id":143,
+    "player_name":"Dinesh Karthik",
+    "role":"Batter",
+    "match_id":30056,
+    "balls":7,
+    "runs":20,
+    "wickets":0,
+    "metric_value":285.7
+  },
+  {
+    "player_id":143,
+    "player_name":"Dinesh Karthik",
+    "role":"Batter",
+    "match_id":30061,
+    "balls":9,
+    "runs":24,
+    "wickets":0,
+    "metric_value":266.7
+  },
+  {
+    "player_id":143,
+    "player_name":"Dinesh Karthik",
+    "role":"Batter",
+    "match_id":30070,
+    "balls":8,
+    "runs":4,
+    "wickets":1,
+    "metric_value":50.0
+  },
+  {
+    "player_id":143,
+    "player_name":"Dinesh Karthik",
+    "role":"Batter",
+    "match_id":31243,
+    "balls":8,
+    "runs":30,
+    "wickets":0,
+    "metric_value":375.0
+  },
+  {
+    "player_id":143,
+    "player_name":"Dinesh Karthik",
+    "role":"Batter",
+    "match_id":31248,
+    "balls":30,
+    "runs":69,
+    "wickets":0,
+    "metric_value":230.0
+  },
+  {
+    "player_id":143,
+    "player_name":"Dinesh Karthik",
+    "role":"Batter",
+    "match_id":31254,
+    "balls":14,
+    "runs":19,
+    "wickets":1,
+    "metric_value":135.7
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":14097,
+    "balls":15,
+    "runs":27,
+    "wickets":0,
+    "metric_value":180.0
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":14109,
+    "balls":4,
+    "runs":6,
+    "wickets":1,
+    "metric_value":150.0
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":14122,
+    "balls":35,
+    "runs":73,
+    "wickets":0,
+    "metric_value":208.6
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":14133,
+    "balls":4,
+    "runs":3,
+    "wickets":1,
+    "metric_value":75.0
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":14136,
+    "balls":13,
+    "runs":25,
+    "wickets":0,
+    "metric_value":192.3
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":14145,
+    "balls":7,
+    "runs":10,
+    "wickets":0,
+    "metric_value":142.9
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":14151,
+    "balls":2,
+    "runs":7,
+    "wickets":0,
+    "metric_value":350.0
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":15187,
+    "balls":11,
+    "runs":28,
+    "wickets":0,
+    "metric_value":254.5
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":15406,
+    "balls":22,
+    "runs":52,
+    "wickets":0,
+    "metric_value":236.4
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":15408,
+    "balls":5,
+    "runs":3,
+    "wickets":1,
+    "metric_value":60.0
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":15409,
+    "balls":6,
+    "runs":9,
+    "wickets":1,
+    "metric_value":150.0
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":16315,
+    "balls":12,
+    "runs":8,
+    "wickets":1,
+    "metric_value":66.7
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":17626,
+    "balls":41,
+    "runs":83,
+    "wickets":0,
+    "metric_value":202.4
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":19959,
+    "balls":3,
+    "runs":10,
+    "wickets":0,
+    "metric_value":333.3
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":20187,
+    "balls":2,
+    "runs":7,
+    "wickets":0,
+    "metric_value":350.0
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":20198,
+    "balls":1,
+    "runs":1,
+    "wickets":0,
+    "metric_value":100.0
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":20210,
+    "balls":9,
+    "runs":6,
+    "wickets":1,
+    "metric_value":66.7
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":20219,
+    "balls":3,
+    "runs":11,
+    "wickets":0,
+    "metric_value":366.7
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":20237,
+    "balls":24,
+    "runs":41,
+    "wickets":1,
+    "metric_value":170.8
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":21583,
+    "balls":2,
+    "runs":1,
+    "wickets":1,
+    "metric_value":50.0
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":28047,
+    "balls":23,
+    "runs":35,
+    "wickets":1,
+    "metric_value":152.2
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":30062,
+    "balls":16,
+    "runs":21,
+    "wickets":1,
+    "metric_value":131.2
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":31258,
+    "balls":23,
+    "runs":55,
+    "wickets":1,
+    "metric_value":239.1
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":37940,
+    "balls":10,
+    "runs":3,
+    "wickets":1,
+    "metric_value":30.0
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":37942,
+    "balls":18,
+    "runs":18,
+    "wickets":1,
+    "metric_value":100.0
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":37943,
+    "balls":27,
+    "runs":36,
+    "wickets":1,
+    "metric_value":133.3
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":40697,
+    "balls":6,
+    "runs":14,
+    "wickets":0,
+    "metric_value":233.3
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":40738,
+    "balls":16,
+    "runs":24,
+    "wickets":1,
+    "metric_value":150.0
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":40747,
+    "balls":8,
+    "runs":11,
+    "wickets":1,
+    "metric_value":137.5
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":42031,
+    "balls":9,
+    "runs":15,
+    "wickets":1,
+    "metric_value":166.7
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":50138,
+    "balls":9,
+    "runs":29,
+    "wickets":1,
+    "metric_value":322.2
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":50142,
+    "balls":9,
+    "runs":15,
+    "wickets":1,
+    "metric_value":166.7
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":50347,
+    "balls":9,
+    "runs":18,
+    "wickets":0,
+    "metric_value":200.0
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":50352,
+    "balls":1,
+    "runs":0,
+    "wickets":1,
+    "metric_value":0.0
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":50360,
+    "balls":18,
+    "runs":19,
+    "wickets":1,
+    "metric_value":105.6
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":50376,
+    "balls":28,
+    "runs":51,
+    "wickets":1,
+    "metric_value":182.1
+  },
+  {
+    "player_id":1077,
+    "player_name":"David Miller",
+    "role":"Batter",
+    "match_id":50383,
+    "balls":5,
+    "runs":9,
+    "wickets":0,
+    "metric_value":180.0
+  },
+  {
+    "player_id":1699,
+    "player_name":"Suryakumar Yadav",
+    "role":"Batter",
+    "match_id":13524,
+    "balls":2,
+    "runs":7,
+    "wickets":0,
+    "metric_value":350.0
+  },
+  {
+    "player_id":1699,
+    "player_name":"Suryakumar Yadav",
+    "role":"Batter",
+    "match_id":14107,
+    "balls":1,
+    "runs":1,
+    "wickets":0,
+    "metric_value":100.0
+  },
+  {
+    "player_id":1699,
+    "player_name":"Suryakumar Yadav",
+    "role":"Batter",
+    "match_id":14111,
+    "balls":34,
+    "runs":67,
+    "wickets":0,
+    "metric_value":197.1
+  },
+  {
+    "player_id":1699,
+    "player_name":"Suryakumar Yadav",
+    "role":"Batter",
+    "match_id":14116,
+    "balls":14,
+    "runs":23,
+    "wickets":1,
+    "metric_value":164.3
+  },
+  {
+    "player_id":1699,
+    "player_name":"Suryakumar Yadav",
+    "role":"Batter",
+    "match_id":14119,
+    "balls":11,
+    "runs":15,
+    "wickets":1,
+    "metric_value":136.4
+  },
+  {
+    "player_id":1699,
+    "player_name":"Suryakumar Yadav",
+    "role":"Batter",
+    "match_id":14130,
+    "balls":4,
+    "runs":5,
+    "wickets":1,
+    "metric_value":125.0
+  },
+  {
+    "player_id":1699,
+    "player_name":"Suryakumar Yadav",
+    "role":"Batter",
+    "match_id":16042,
+    "balls":55,
+    "runs":117,
+    "wickets":1,
+    "metric_value":212.7
+  },
+  {
+    "player_id":1699,
+    "player_name":"Suryakumar Yadav",
+    "role":"Batter",
+    "match_id":17627,
+    "balls":3,
+    "runs":7,
+    "wickets":1,
+    "metric_value":233.3
+  },
+  {
+    "player_id":1699,
+    "player_name":"Suryakumar Yadav",
+    "role":"Batter",
+    "match_id":19557,
+    "balls":33,
+    "runs":51,
+    "wickets":1,
+    "metric_value":154.5
+  },
+  {
+    "player_id":1699,
+    "player_name":"Suryakumar Yadav",
+    "role":"Batter",
+    "match_id":19715,
+    "balls":2,
+    "runs":7,
+    "wickets":0,
+    "metric_value":350.0
+  },
+  {
+    "player_id":1699,
+    "player_name":"Suryakumar Yadav",
+    "role":"Batter",
+    "match_id":19716,
+    "balls":1,
+    "runs":4,
+    "wickets":0,
+    "metric_value":400.0
+  },
+  {
+    "player_id":1699,
+    "player_name":"Suryakumar Yadav",
+    "role":"Batter",
+    "match_id":20211,
+    "balls":26,
+    "runs":57,
+    "wickets":1,
+    "metric_value":219.2
+  },
+  {
+    "player_id":1699,
+    "player_name":"Suryakumar Yadav",
+    "role":"Batter",
+    "match_id":20215,
+    "balls":12,
+    "runs":23,
+    "wickets":1,
+    "metric_value":191.7
+  },
+  {
+    "player_id":1699,
+    "player_name":"Suryakumar Yadav",
+    "role":"Batter",
+    "match_id":20222,
+    "balls":15,
+    "runs":29,
+    "wickets":1,
+    "metric_value":193.3
+  },
+  {
+    "player_id":1699,
+    "player_name":"Suryakumar Yadav",
+    "role":"Batter",
+    "match_id":20225,
+    "balls":16,
+    "runs":32,
+    "wickets":0,
+    "metric_value":200.0
+  },
+  {
+    "player_id":1699,
+    "player_name":"Suryakumar Yadav",
+    "role":"Batter",
+    "match_id":21585,
+    "balls":15,
+    "runs":31,
+    "wickets":1,
+    "metric_value":206.7
+  },
+  {
+    "player_id":1699,
+    "player_name":"Suryakumar Yadav",
+    "role":"Batter",
+    "match_id":24354,
+    "balls":5,
+    "runs":6,
+    "wickets":1,
+    "metric_value":120.0
+  },
+  {
+    "player_id":1699,
+    "player_name":"Suryakumar Yadav",
+    "role":"Batter",
+    "match_id":31261,
+    "balls":10,
+    "runs":24,
+    "wickets":1,
+    "metric_value":240.0
+  },
+  {
+    "player_id":1699,
+    "player_name":"Suryakumar Yadav",
+    "role":"Batter",
+    "match_id":31269,
+    "balls":18,
+    "runs":37,
+    "wickets":1,
+    "metric_value":205.6
+  },
+  {
+    "player_id":1699,
+    "player_name":"Suryakumar Yadav",
+    "role":"Batter",
+    "match_id":40702,
+    "balls":8,
+    "runs":11,
+    "wickets":1,
+    "metric_value":137.5
+  },
+  {
+    "player_id":1699,
+    "player_name":"Suryakumar Yadav",
+    "role":"Batter",
+    "match_id":40709,
+    "balls":5,
+    "runs":6,
+    "wickets":1,
+    "metric_value":120.0
+  },
+  {
+    "player_id":1699,
+    "player_name":"Suryakumar Yadav",
+    "role":"Batter",
+    "match_id":40714,
+    "balls":16,
+    "runs":22,
+    "wickets":1,
+    "metric_value":137.5
+  },
+  {
+    "player_id":1699,
+    "player_name":"Suryakumar Yadav",
+    "role":"Batter",
+    "match_id":40759,
+    "balls":7,
+    "runs":12,
+    "wickets":0,
+    "metric_value":171.4
+  },
+  {
+    "player_id":1699,
+    "player_name":"Suryakumar Yadav",
+    "role":"Batter",
+    "match_id":48592,
+    "balls":3,
+    "runs":1,
+    "wickets":0,
+    "metric_value":33.3
+  },
+  {
+    "player_id":1699,
+    "player_name":"Suryakumar Yadav",
+    "role":"Batter",
+    "match_id":48594,
+    "balls":7,
+    "runs":8,
+    "wickets":1,
+    "metric_value":114.3
+  },
+  {
+    "player_id":1699,
+    "player_name":"Suryakumar Yadav",
+    "role":"Batter",
+    "match_id":50137,
+    "balls":1,
+    "runs":6,
+    "wickets":0,
+    "metric_value":600.0
+  },
+  {
+    "player_id":1699,
+    "player_name":"Suryakumar Yadav",
+    "role":"Batter",
+    "match_id":50144,
+    "balls":18,
+    "runs":28,
+    "wickets":1,
+    "metric_value":155.6
+  },
+  {
+    "player_id":1699,
+    "player_name":"Suryakumar Yadav",
+    "role":"Batter",
+    "match_id":50354,
+    "balls":30,
+    "runs":36,
+    "wickets":1,
+    "metric_value":120.0
+  },
+  {
+    "player_id":1699,
+    "player_name":"Suryakumar Yadav",
+    "role":"Batter",
+    "match_id":50390,
+    "balls":28,
+    "runs":35,
+    "wickets":1,
+    "metric_value":125.0
+  },
+  {
+    "player_id":4812,
+    "player_name":"Harry Tector",
+    "role":"Batter",
+    "match_id":15796,
+    "balls":16,
+    "runs":28,
+    "wickets":1,
+    "metric_value":175.0
+  },
+  {
+    "player_id":4812,
+    "player_name":"Harry Tector",
+    "role":"Batter",
+    "match_id":16260,
+    "balls":3,
+    "runs":8,
+    "wickets":1,
+    "metric_value":266.7
+  },
+  {
+    "player_id":4812,
+    "player_name":"Harry Tector",
+    "role":"Batter",
+    "match_id":16647,
+    "balls":20,
+    "runs":24,
+    "wickets":1,
+    "metric_value":120.0
+  },
+  {
+    "player_id":4812,
+    "player_name":"Harry Tector",
+    "role":"Batter",
+    "match_id":16750,
+    "balls":5,
+    "runs":13,
+    "wickets":0,
+    "metric_value":260.0
+  },
+  {
+    "player_id":4812,
+    "player_name":"Harry Tector",
+    "role":"Batter",
+    "match_id":21070,
+    "balls":12,
+    "runs":19,
+    "wickets":1,
+    "metric_value":158.3
+  },
+  {
+    "player_id":4812,
+    "player_name":"Harry Tector",
+    "role":"Batter",
+    "match_id":21071,
+    "balls":16,
+    "runs":22,
+    "wickets":1,
+    "metric_value":137.5
+  },
+  {
+    "player_id":4812,
+    "player_name":"Harry Tector",
+    "role":"Batter",
+    "match_id":24823,
+    "balls":1,
+    "runs":4,
+    "wickets":0,
+    "metric_value":400.0
+  },
+  {
+    "player_id":4812,
+    "player_name":"Harry Tector",
+    "role":"Batter",
+    "match_id":28057,
+    "balls":1,
+    "runs":0,
+    "wickets":1,
+    "metric_value":0.0
+  },
+  {
+    "player_id":4812,
+    "player_name":"Harry Tector",
+    "role":"Batter",
+    "match_id":30728,
+    "balls":25,
+    "runs":48,
+    "wickets":0,
+    "metric_value":192.0
+  },
+  {
+    "player_id":4812,
+    "player_name":"Harry Tector",
+    "role":"Batter",
+    "match_id":32292,
+    "balls":6,
+    "runs":12,
+    "wickets":0,
+    "metric_value":200.0
+  },
+  {
+    "player_id":4812,
+    "player_name":"Harry Tector",
+    "role":"Batter",
+    "match_id":41504,
+    "balls":24,
+    "runs":38,
+    "wickets":1,
+    "metric_value":158.3
+  },
+  {
+    "player_id":4812,
+    "player_name":"Harry Tector",
+    "role":"Batter",
+    "match_id":50341,
+    "balls":10,
+    "runs":14,
+    "wickets":1,
+    "metric_value":140.0
+  },
+  {
+    "player_id":3782,
+    "player_name":"M Shahrukh Khan",
+    "role":"Batter",
+    "match_id":14096,
+    "balls":9,
+    "runs":9,
+    "wickets":0,
+    "metric_value":100.0
+  },
+  {
+    "player_id":3782,
+    "player_name":"M Shahrukh Khan",
+    "role":"Batter",
+    "match_id":14125,
+    "balls":3,
+    "runs":2,
+    "wickets":1,
+    "metric_value":66.7
+  },
+  {
+    "player_id":3782,
+    "player_name":"M Shahrukh Khan",
+    "role":"Batter",
+    "match_id":20198,
+    "balls":9,
+    "runs":22,
+    "wickets":1,
+    "metric_value":244.4
+  },
+  {
+    "player_id":3782,
+    "player_name":"M Shahrukh Khan",
+    "role":"Batter",
+    "match_id":20201,
+    "balls":4,
+    "runs":14,
+    "wickets":0,
+    "metric_value":350.0
+  },
+  {
+    "player_id":3782,
+    "player_name":"M Shahrukh Khan",
+    "role":"Batter",
+    "match_id":20207,
+    "balls":1,
+    "runs":6,
+    "wickets":0,
+    "metric_value":600.0
+  },
+  {
+    "player_id":3782,
+    "player_name":"M Shahrukh Khan",
+    "role":"Batter",
+    "match_id":20218,
+    "balls":1,
+    "runs":1,
+    "wickets":0,
+    "metric_value":100.0
+  },
+  {
+    "player_id":3782,
+    "player_name":"M Shahrukh Khan",
+    "role":"Batter",
+    "match_id":20221,
+    "balls":3,
+    "runs":2,
+    "wickets":0,
+    "metric_value":66.7
+  },
+  {
+    "player_id":3782,
+    "player_name":"M Shahrukh Khan",
+    "role":"Batter",
+    "match_id":20233,
+    "balls":8,
+    "runs":21,
+    "wickets":0,
+    "metric_value":262.5
+  },
+  {
+    "player_id":3782,
+    "player_name":"M Shahrukh Khan",
+    "role":"Batter",
+    "match_id":20239,
+    "balls":4,
+    "runs":2,
+    "wickets":1,
+    "metric_value":50.0
+  },
+  {
+    "player_id":3782,
+    "player_name":"M Shahrukh Khan",
+    "role":"Batter",
+    "match_id":20244,
+    "balls":3,
+    "runs":6,
+    "wickets":1,
+    "metric_value":200.0
+  },
+  {
+    "player_id":3782,
+    "player_name":"M Shahrukh Khan",
+    "role":"Batter",
+    "match_id":20246,
+    "balls":6,
+    "runs":12,
+    "wickets":0,
+    "metric_value":200.0
+  },
+  {
+    "player_id":3782,
+    "player_name":"M Shahrukh Khan",
+    "role":"Batter",
+    "match_id":31242,
+    "balls":8,
+    "runs":14,
+    "wickets":1,
+    "metric_value":175.0
+  },
+  {
+    "player_id":3782,
+    "player_name":"M Shahrukh Khan",
+    "role":"Batter",
+    "match_id":31249,
+    "balls":1,
+    "runs":0,
+    "wickets":0,
+    "metric_value":0.0
+  },
+  {
+    "player_id":3782,
+    "player_name":"M Shahrukh Khan",
+    "role":"Batter",
+    "match_id":31258,
+    "balls":5,
+    "runs":8,
+    "wickets":1,
+    "metric_value":160.0
+  },
+  {
+    "player_id":3782,
+    "player_name":"M Shahrukh Khan",
+    "role":"Batter",
+    "match_id":31270,
+    "balls":1,
+    "runs":4,
+    "wickets":0,
+    "metric_value":400.0
+  },
+  {
+    "player_id":3782,
+    "player_name":"M Shahrukh Khan",
+    "role":"Batter",
+    "match_id":40698,
+    "balls":1,
+    "runs":6,
+    "wickets":0,
+    "metric_value":600.0
+  },
+  {
+    "player_id":3782,
+    "player_name":"M Shahrukh Khan",
+    "role":"Batter",
+    "match_id":40749,
+    "balls":3,
+    "runs":5,
+    "wickets":1,
+    "metric_value":166.7
+  },
+  {
+    "player_id":3782,
+    "player_name":"M Shahrukh Khan",
+    "role":"Batter",
+    "match_id":40758,
+    "balls":27,
+    "runs":55,
+    "wickets":1,
+    "metric_value":203.7
+  },
+  {
+    "player_id":3782,
+    "player_name":"M Shahrukh Khan",
+    "role":"Batter",
+    "match_id":40762,
+    "balls":15,
+    "runs":19,
+    "wickets":1,
+    "metric_value":126.7
+  },
+  {
+    "player_id":3782,
+    "player_name":"M Shahrukh Khan",
+    "role":"Batter",
+    "match_id":40765,
+    "balls":7,
+    "runs":13,
+    "wickets":1,
+    "metric_value":185.7
+  },
+  {
+    "player_id":3782,
+    "player_name":"M Shahrukh Khan",
+    "role":"Batter",
+    "match_id":50133,
+    "balls":3,
+    "runs":11,
+    "wickets":0,
+    "metric_value":366.7
+  },
+  {
+    "player_id":3782,
+    "player_name":"M Shahrukh Khan",
+    "role":"Batter",
+    "match_id":50351,
+    "balls":13,
+    "runs":17,
+    "wickets":1,
+    "metric_value":130.8
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":16654,
+    "balls":24,
+    "runs":32,
+    "wickets":0,
+    "metric_value":8.0
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":16660,
+    "balls":4,
+    "runs":2,
+    "wickets":0,
+    "metric_value":3.0
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":16664,
+    "balls":6,
+    "runs":11,
+    "wickets":0,
+    "metric_value":11.0
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":17553,
+    "balls":24,
+    "runs":23,
+    "wickets":1,
+    "metric_value":5.75
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":17554,
+    "balls":12,
+    "runs":17,
+    "wickets":1,
+    "metric_value":8.5
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":17555,
+    "balls":12,
+    "runs":18,
+    "wickets":0,
+    "metric_value":9.0
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":17556,
+    "balls":24,
+    "runs":32,
+    "wickets":3,
+    "metric_value":8.0
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":17557,
+    "balls":12,
+    "runs":20,
+    "wickets":1,
+    "metric_value":10.0
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":17559,
+    "balls":12,
+    "runs":10,
+    "wickets":0,
+    "metric_value":5.0
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":17737,
+    "balls":12,
+    "runs":13,
+    "wickets":1,
+    "metric_value":6.5
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":21403,
+    "balls":6,
+    "runs":1,
+    "wickets":0,
+    "metric_value":1.0
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":21404,
+    "balls":7,
+    "runs":9,
+    "wickets":1,
+    "metric_value":7.71
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":21407,
+    "balls":24,
+    "runs":37,
+    "wickets":0,
+    "metric_value":9.25
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":28963,
+    "balls":12,
+    "runs":16,
+    "wickets":2,
+    "metric_value":8.0
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":28964,
+    "balls":12,
+    "runs":7,
+    "wickets":3,
+    "metric_value":3.5
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":28965,
+    "balls":10,
+    "runs":15,
+    "wickets":1,
+    "metric_value":9.0
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":28966,
+    "balls":19,
+    "runs":29,
+    "wickets":0,
+    "metric_value":9.16
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":32611,
+    "balls":6,
+    "runs":7,
+    "wickets":1,
+    "metric_value":7.0
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":32613,
+    "balls":7,
+    "runs":14,
+    "wickets":1,
+    "metric_value":12.0
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":37355,
+    "balls":6,
+    "runs":3,
+    "wickets":2,
+    "metric_value":3.0
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":37926,
+    "balls":12,
+    "runs":12,
+    "wickets":1,
+    "metric_value":6.0
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":38796,
+    "balls":21,
+    "runs":45,
+    "wickets":0,
+    "metric_value":12.86
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":39809,
+    "balls":18,
+    "runs":19,
+    "wickets":2,
+    "metric_value":6.33
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":39810,
+    "balls":12,
+    "runs":11,
+    "wickets":2,
+    "metric_value":5.5
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":39811,
+    "balls":24,
+    "runs":22,
+    "wickets":3,
+    "metric_value":5.5
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":41510,
+    "balls":12,
+    "runs":17,
+    "wickets":0,
+    "metric_value":8.5
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":41512,
+    "balls":24,
+    "runs":32,
+    "wickets":1,
+    "metric_value":8.0
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":42742,
+    "balls":6,
+    "runs":5,
+    "wickets":0,
+    "metric_value":5.0
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":42743,
+    "balls":6,
+    "runs":7,
+    "wickets":1,
+    "metric_value":7.0
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":45504,
+    "balls":11,
+    "runs":10,
+    "wickets":1,
+    "metric_value":5.45
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":45508,
+    "balls":18,
+    "runs":20,
+    "wickets":2,
+    "metric_value":6.67
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":45511,
+    "balls":9,
+    "runs":17,
+    "wickets":1,
+    "metric_value":11.33
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":45513,
+    "balls":22,
+    "runs":49,
+    "wickets":0,
+    "metric_value":13.36
+  },
+  {
+    "player_id":7364,
+    "player_name":"Haris Rauf",
+    "role":"Bowler",
+    "match_id":45851,
+    "balls":12,
+    "runs":12,
+    "wickets":2,
+    "metric_value":6.0
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":16654,
+    "balls":22,
+    "runs":33,
+    "wickets":3,
+    "metric_value":9.0
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":16660,
+    "balls":1,
+    "runs":0,
+    "wickets":0,
+    "metric_value":0.0
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":16664,
+    "balls":12,
+    "runs":9,
+    "wickets":0,
+    "metric_value":4.5
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":17553,
+    "balls":24,
+    "runs":20,
+    "wickets":0,
+    "metric_value":5.0
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":17556,
+    "balls":14,
+    "runs":14,
+    "wickets":3,
+    "metric_value":6.0
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":17557,
+    "balls":12,
+    "runs":9,
+    "wickets":1,
+    "metric_value":4.5
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":17558,
+    "balls":22,
+    "runs":33,
+    "wickets":0,
+    "metric_value":9.0
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":17737,
+    "balls":24,
+    "runs":25,
+    "wickets":2,
+    "metric_value":6.25
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":17740,
+    "balls":12,
+    "runs":17,
+    "wickets":0,
+    "metric_value":8.5
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":20879,
+    "balls":12,
+    "runs":8,
+    "wickets":0,
+    "metric_value":4.0
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":20880,
+    "balls":1,
+    "runs":1,
+    "wickets":0,
+    "metric_value":6.0
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":28965,
+    "balls":12,
+    "runs":22,
+    "wickets":1,
+    "metric_value":11.0
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":28966,
+    "balls":24,
+    "runs":41,
+    "wickets":0,
+    "metric_value":10.25
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":28967,
+    "balls":12,
+    "runs":7,
+    "wickets":1,
+    "metric_value":3.5
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":41510,
+    "balls":16,
+    "runs":16,
+    "wickets":0,
+    "metric_value":6.0
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":41511,
+    "balls":12,
+    "runs":8,
+    "wickets":1,
+    "metric_value":4.0
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":41512,
+    "balls":18,
+    "runs":32,
+    "wickets":1,
+    "metric_value":10.67
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":44265,
+    "balls":6,
+    "runs":8,
+    "wickets":0,
+    "metric_value":8.0
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":45498,
+    "balls":8,
+    "runs":8,
+    "wickets":1,
+    "metric_value":6.0
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":45500,
+    "balls":12,
+    "runs":14,
+    "wickets":0,
+    "metric_value":7.0
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":45504,
+    "balls":18,
+    "runs":27,
+    "wickets":0,
+    "metric_value":9.0
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":45511,
+    "balls":18,
+    "runs":14,
+    "wickets":1,
+    "metric_value":4.67
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":45513,
+    "balls":6,
+    "runs":6,
+    "wickets":0,
+    "metric_value":6.0
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":45851,
+    "balls":18,
+    "runs":20,
+    "wickets":1,
+    "metric_value":6.67
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":45852,
+    "balls":12,
+    "runs":13,
+    "wickets":1,
+    "metric_value":6.5
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":45855,
+    "balls":17,
+    "runs":23,
+    "wickets":1,
+    "metric_value":8.12
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":45857,
+    "balls":6,
+    "runs":1,
+    "wickets":2,
+    "metric_value":1.0
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":46740,
+    "balls":7,
+    "runs":4,
+    "wickets":1,
+    "metric_value":3.43
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":47979,
+    "balls":7,
+    "runs":7,
+    "wickets":1,
+    "metric_value":6.0
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":48915,
+    "balls":8,
+    "runs":8,
+    "wickets":1,
+    "metric_value":6.0
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":48916,
+    "balls":5,
+    "runs":5,
+    "wickets":1,
+    "metric_value":6.0
+  },
+  {
+    "player_id":2490,
+    "player_name":"Mohammad Nawaz",
+    "role":"Bowler",
+    "match_id":48917,
+    "balls":6,
+    "runs":3,
+    "wickets":1,
+    "metric_value":3.0
+  },
+  {
+    "player_id":22920,
+    "player_name":"Jacob Duffy",
+    "role":"Bowler",
+    "match_id":16258,
+    "balls":12,
+    "runs":14,
+    "wickets":1,
+    "metric_value":7.0
+  },
+  {
+    "player_id":22920,
+    "player_name":"Jacob Duffy",
+    "role":"Bowler",
+    "match_id":16259,
+    "balls":17,
+    "runs":20,
+    "wickets":2,
+    "metric_value":7.06
+  },
+  {
+    "player_id":22920,
+    "player_name":"Jacob Duffy",
+    "role":"Bowler",
+    "match_id":19715,
+    "balls":12,
+    "runs":10,
+    "wickets":1,
+    "metric_value":5.0
+  },
+  {
+    "player_id":22920,
+    "player_name":"Jacob Duffy",
+    "role":"Bowler",
+    "match_id":31709,
+    "balls":4,
+    "runs":4,
+    "wickets":1,
+    "metric_value":6.0
+  },
+  {
+    "player_id":22920,
+    "player_name":"Jacob Duffy",
+    "role":"Bowler",
+    "match_id":31710,
+    "balls":18,
+    "runs":30,
+    "wickets":0,
+    "metric_value":10.0
+  },
+  {
+    "player_id":22920,
+    "player_name":"Jacob Duffy",
+    "role":"Bowler",
+    "match_id":37894,
+    "balls":18,
+    "runs":27,
+    "wickets":0,
+    "metric_value":9.0
+  },
+  {
+    "player_id":22920,
+    "player_name":"Jacob Duffy",
+    "role":"Bowler",
+    "match_id":38632,
+    "balls":24,
+    "runs":20,
+    "wickets":3,
+    "metric_value":5.0
+  },
+  {
+    "player_id":22920,
+    "player_name":"Jacob Duffy",
+    "role":"Bowler",
+    "match_id":38633,
+    "balls":14,
+    "runs":5,
+    "wickets":3,
+    "metric_value":2.14
+  },
+  {
+    "player_id":22920,
+    "player_name":"Jacob Duffy",
+    "role":"Bowler",
+    "match_id":38634,
+    "balls":12,
+    "runs":20,
+    "wickets":0,
+    "metric_value":10.0
+  },
+  {
+    "player_id":22920,
+    "player_name":"Jacob Duffy",
+    "role":"Bowler",
+    "match_id":39810,
+    "balls":18,
+    "runs":37,
+    "wickets":1,
+    "metric_value":12.33
+  },
+  {
+    "player_id":22920,
+    "player_name":"Jacob Duffy",
+    "role":"Bowler",
+    "match_id":39811,
+    "balls":4,
+    "runs":1,
+    "wickets":1,
+    "metric_value":1.5
+  },
+  {
+    "player_id":22920,
+    "player_name":"Jacob Duffy",
+    "role":"Bowler",
+    "match_id":46310,
+    "balls":18,
+    "runs":29,
+    "wickets":0,
+    "metric_value":9.67
+  },
+  {
+    "player_id":22920,
+    "player_name":"Jacob Duffy",
+    "role":"Bowler",
+    "match_id":46312,
+    "balls":24,
+    "runs":24,
+    "wickets":2,
+    "metric_value":6.0
+  },
+  {
+    "player_id":22920,
+    "player_name":"Jacob Duffy",
+    "role":"Bowler",
+    "match_id":46748,
+    "balls":12,
+    "runs":20,
+    "wickets":0,
+    "metric_value":10.0
+  },
+  {
+    "player_id":22920,
+    "player_name":"Jacob Duffy",
+    "role":"Bowler",
+    "match_id":47966,
+    "balls":8,
+    "runs":0,
+    "wickets":1,
+    "metric_value":0.0
+  },
+  {
+    "player_id":22920,
+    "player_name":"Jacob Duffy",
+    "role":"Bowler",
+    "match_id":47967,
+    "balls":16,
+    "runs":16,
+    "wickets":3,
+    "metric_value":6.0
+  },
+  {
+    "player_id":22920,
+    "player_name":"Jacob Duffy",
+    "role":"Bowler",
+    "match_id":48591,
+    "balls":12,
+    "runs":9,
+    "wickets":1,
+    "metric_value":4.5
+  },
+  {
+    "player_id":22920,
+    "player_name":"Jacob Duffy",
+    "role":"Bowler",
+    "match_id":48592,
+    "balls":20,
+    "runs":33,
+    "wickets":1,
+    "metric_value":9.9
+  },
+  {
+    "player_id":22920,
+    "player_name":"Jacob Duffy",
+    "role":"Bowler",
+    "match_id":48593,
+    "balls":3,
+    "runs":11,
+    "wickets":0,
+    "metric_value":22.0
+  },
+  {
+    "player_id":22920,
+    "player_name":"Jacob Duffy",
+    "role":"Bowler",
+    "match_id":48594,
+    "balls":5,
+    "runs":1,
+    "wickets":1,
+    "metric_value":1.2
+  },
+  {
+    "player_id":22920,
+    "player_name":"Jacob Duffy",
+    "role":"Bowler",
+    "match_id":48595,
+    "balls":12,
+    "runs":32,
+    "wickets":1,
+    "metric_value":16.0
+  },
+  {
+    "player_id":22920,
+    "player_name":"Jacob Duffy",
+    "role":"Bowler",
+    "match_id":54211,
+    "balls":16,
+    "runs":18,
+    "wickets":1,
+    "metric_value":6.75
+  },
+  {
+    "player_id":22920,
+    "player_name":"Jacob Duffy",
+    "role":"Bowler",
+    "match_id":54212,
+    "balls":6,
+    "runs":20,
+    "wickets":0,
+    "metric_value":20.0
+  },
+  {
+    "player_id":22920,
+    "player_name":"Jacob Duffy",
+    "role":"Bowler",
+    "match_id":54214,
+    "balls":6,
+    "runs":11,
+    "wickets":0,
+    "metric_value":11.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":14108,
+    "balls":12,
+    "runs":11,
+    "wickets":0,
+    "metric_value":5.5
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":14127,
+    "balls":5,
+    "runs":5,
+    "wickets":0,
+    "metric_value":6.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":14158,
+    "balls":3,
+    "runs":1,
+    "wickets":1,
+    "metric_value":2.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":14163,
+    "balls":18,
+    "runs":26,
+    "wickets":0,
+    "metric_value":8.67
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":15406,
+    "balls":8,
+    "runs":7,
+    "wickets":1,
+    "metric_value":5.25
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":15407,
+    "balls":6,
+    "runs":19,
+    "wickets":0,
+    "metric_value":19.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":15408,
+    "balls":12,
+    "runs":16,
+    "wickets":1,
+    "metric_value":8.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":15409,
+    "balls":12,
+    "runs":7,
+    "wickets":0,
+    "metric_value":3.5
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":15796,
+    "balls":3,
+    "runs":4,
+    "wickets":0,
+    "metric_value":8.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":16065,
+    "balls":12,
+    "runs":25,
+    "wickets":1,
+    "metric_value":12.5
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":16066,
+    "balls":18,
+    "runs":14,
+    "wickets":3,
+    "metric_value":4.67
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":17394,
+    "balls":22,
+    "runs":16,
+    "wickets":3,
+    "metric_value":4.36
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":17396,
+    "balls":4,
+    "runs":8,
+    "wickets":1,
+    "metric_value":12.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":17626,
+    "balls":6,
+    "runs":20,
+    "wickets":0,
+    "metric_value":20.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":17627,
+    "balls":1,
+    "runs":0,
+    "wickets":0,
+    "metric_value":0.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":19556,
+    "balls":3,
+    "runs":2,
+    "wickets":0,
+    "metric_value":4.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":20191,
+    "balls":7,
+    "runs":14,
+    "wickets":0,
+    "metric_value":12.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":20196,
+    "balls":24,
+    "runs":19,
+    "wickets":0,
+    "metric_value":4.75
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":20214,
+    "balls":24,
+    "runs":21,
+    "wickets":2,
+    "metric_value":5.25
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":20224,
+    "balls":12,
+    "runs":12,
+    "wickets":0,
+    "metric_value":6.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":24354,
+    "balls":6,
+    "runs":8,
+    "wickets":0,
+    "metric_value":8.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":27062,
+    "balls":11,
+    "runs":16,
+    "wickets":0,
+    "metric_value":8.73
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":27063,
+    "balls":24,
+    "runs":16,
+    "wickets":3,
+    "metric_value":4.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":27064,
+    "balls":24,
+    "runs":14,
+    "wickets":1,
+    "metric_value":3.5
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":30057,
+    "balls":24,
+    "runs":25,
+    "wickets":0,
+    "metric_value":6.25
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":30068,
+    "balls":2,
+    "runs":2,
+    "wickets":0,
+    "metric_value":6.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":30071,
+    "balls":6,
+    "runs":18,
+    "wickets":0,
+    "metric_value":18.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":30075,
+    "balls":11,
+    "runs":13,
+    "wickets":1,
+    "metric_value":7.09
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":31253,
+    "balls":7,
+    "runs":5,
+    "wickets":1,
+    "metric_value":4.29
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":31258,
+    "balls":3,
+    "runs":2,
+    "wickets":0,
+    "metric_value":4.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":31265,
+    "balls":12,
+    "runs":16,
+    "wickets":0,
+    "metric_value":8.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":31274,
+    "balls":6,
+    "runs":10,
+    "wickets":1,
+    "metric_value":10.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":31282,
+    "balls":6,
+    "runs":20,
+    "wickets":1,
+    "metric_value":20.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":34427,
+    "balls":22,
+    "runs":29,
+    "wickets":2,
+    "metric_value":7.91
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":37942,
+    "balls":2,
+    "runs":1,
+    "wickets":0,
+    "metric_value":3.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":40039,
+    "balls":18,
+    "runs":25,
+    "wickets":1,
+    "metric_value":8.33
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":40697,
+    "balls":6,
+    "runs":6,
+    "wickets":0,
+    "metric_value":6.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":40717,
+    "balls":6,
+    "runs":8,
+    "wickets":0,
+    "metric_value":8.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":40725,
+    "balls":18,
+    "runs":23,
+    "wickets":1,
+    "metric_value":7.67
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":40728,
+    "balls":12,
+    "runs":18,
+    "wickets":0,
+    "metric_value":9.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":40739,
+    "balls":24,
+    "runs":18,
+    "wickets":2,
+    "metric_value":4.5
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":40741,
+    "balls":4,
+    "runs":2,
+    "wickets":2,
+    "metric_value":3.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":40751,
+    "balls":8,
+    "runs":17,
+    "wickets":0,
+    "metric_value":12.75
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":40755,
+    "balls":18,
+    "runs":35,
+    "wickets":0,
+    "metric_value":11.67
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":41978,
+    "balls":24,
+    "runs":20,
+    "wickets":2,
+    "metric_value":5.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":42027,
+    "balls":6,
+    "runs":5,
+    "wickets":1,
+    "metric_value":5.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":42028,
+    "balls":6,
+    "runs":4,
+    "wickets":1,
+    "metric_value":4.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":45391,
+    "balls":23,
+    "runs":19,
+    "wickets":1,
+    "metric_value":4.96
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":45392,
+    "balls":6,
+    "runs":18,
+    "wickets":1,
+    "metric_value":18.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":45394,
+    "balls":15,
+    "runs":33,
+    "wickets":0,
+    "metric_value":13.2
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":45506,
+    "balls":6,
+    "runs":4,
+    "wickets":0,
+    "metric_value":4.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":45510,
+    "balls":18,
+    "runs":22,
+    "wickets":1,
+    "metric_value":7.33
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":45512,
+    "balls":18,
+    "runs":32,
+    "wickets":0,
+    "metric_value":10.67
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":50138,
+    "balls":6,
+    "runs":9,
+    "wickets":0,
+    "metric_value":9.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":50340,
+    "balls":10,
+    "runs":5,
+    "wickets":2,
+    "metric_value":3.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":50347,
+    "balls":6,
+    "runs":2,
+    "wickets":1,
+    "metric_value":2.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":50352,
+    "balls":3,
+    "runs":7,
+    "wickets":1,
+    "metric_value":14.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":50356,
+    "balls":17,
+    "runs":23,
+    "wickets":1,
+    "metric_value":8.12
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":50369,
+    "balls":24,
+    "runs":20,
+    "wickets":1,
+    "metric_value":5.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":50372,
+    "balls":10,
+    "runs":18,
+    "wickets":0,
+    "metric_value":10.8
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":50383,
+    "balls":12,
+    "runs":13,
+    "wickets":0,
+    "metric_value":6.5
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":50391,
+    "balls":18,
+    "runs":34,
+    "wickets":0,
+    "metric_value":11.33
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":50405,
+    "balls":3,
+    "runs":12,
+    "wickets":0,
+    "metric_value":24.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":50407,
+    "balls":21,
+    "runs":38,
+    "wickets":1,
+    "metric_value":10.86
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":54410,
+    "balls":3,
+    "runs":1,
+    "wickets":1,
+    "metric_value":2.0
+  },
+  {
+    "player_id":2876,
+    "player_name":"Axar Patel",
+    "role":"Bowler",
+    "match_id":54711,
+    "balls":12,
+    "runs":6,
+    "wickets":0,
+    "metric_value":3.0
+  },
+  {
+    "player_id":5979,
+    "player_name":"Abrar Ahmed",
+    "role":"Bowler",
+    "match_id":31709,
+    "balls":24,
+    "runs":31,
+    "wickets":0,
+    "metric_value":7.75
+  },
+  {
+    "player_id":5979,
+    "player_name":"Abrar Ahmed",
+    "role":"Bowler",
+    "match_id":37926,
+    "balls":18,
+    "runs":27,
+    "wickets":2,
+    "metric_value":9.0
+  },
+  {
+    "player_id":5979,
+    "player_name":"Abrar Ahmed",
+    "role":"Bowler",
+    "match_id":38796,
+    "balls":22,
+    "runs":26,
+    "wickets":0,
+    "metric_value":7.09
+  },
+  {
+    "player_id":5979,
+    "player_name":"Abrar Ahmed",
+    "role":"Bowler",
+    "match_id":39811,
+    "balls":11,
+    "runs":28,
+    "wickets":1,
+    "metric_value":15.27
+  },
+  {
+    "player_id":5979,
+    "player_name":"Abrar Ahmed",
+    "role":"Bowler",
+    "match_id":42742,
+    "balls":11,
+    "runs":20,
+    "wickets":0,
+    "metric_value":10.91
+  },
+  {
+    "player_id":5979,
+    "player_name":"Abrar Ahmed",
+    "role":"Bowler",
+    "match_id":42743,
+    "balls":3,
+    "runs":2,
+    "wickets":1,
+    "metric_value":4.0
+  },
+  {
+    "player_id":5979,
+    "player_name":"Abrar Ahmed",
+    "role":"Bowler",
+    "match_id":44265,
+    "balls":6,
+    "runs":8,
+    "wickets":0,
+    "metric_value":8.0
+  },
+  {
+    "player_id":5979,
+    "player_name":"Abrar Ahmed",
+    "role":"Bowler",
+    "match_id":45498,
+    "balls":6,
+    "runs":5,
+    "wickets":0,
+    "metric_value":5.0
+  },
+  {
+    "player_id":5979,
+    "player_name":"Abrar Ahmed",
+    "role":"Bowler",
+    "match_id":45500,
+    "balls":6,
+    "runs":5,
+    "wickets":0,
+    "metric_value":5.0
+  },
+  {
+    "player_id":5979,
+    "player_name":"Abrar Ahmed",
+    "role":"Bowler",
+    "match_id":45504,
+    "balls":24,
+    "runs":13,
+    "wickets":2,
+    "metric_value":3.25
+  },
+  {
+    "player_id":5979,
+    "player_name":"Abrar Ahmed",
+    "role":"Bowler",
+    "match_id":45508,
+    "balls":23,
+    "runs":40,
+    "wickets":1,
+    "metric_value":10.43
+  },
+  {
+    "player_id":5979,
+    "player_name":"Abrar Ahmed",
+    "role":"Bowler",
+    "match_id":45511,
+    "balls":6,
+    "runs":2,
+    "wickets":0,
+    "metric_value":2.0
+  },
+  {
+    "player_id":5979,
+    "player_name":"Abrar Ahmed",
+    "role":"Bowler",
+    "match_id":45513,
+    "balls":24,
+    "runs":28,
+    "wickets":1,
+    "metric_value":7.0
+  },
+  {
+    "player_id":5979,
+    "player_name":"Abrar Ahmed",
+    "role":"Bowler",
+    "match_id":45855,
+    "balls":17,
+    "runs":5,
+    "wickets":3,
+    "metric_value":1.76
+  },
+  {
+    "player_id":5979,
+    "player_name":"Abrar Ahmed",
+    "role":"Bowler",
+    "match_id":45857,
+    "balls":12,
+    "runs":13,
+    "wickets":1,
+    "metric_value":6.5
+  },
+  {
+    "player_id":5979,
+    "player_name":"Abrar Ahmed",
+    "role":"Bowler",
+    "match_id":46740,
+    "balls":12,
+    "runs":17,
+    "wickets":1,
+    "metric_value":8.5
+  },
+  {
+    "player_id":5979,
+    "player_name":"Abrar Ahmed",
+    "role":"Bowler",
+    "match_id":47981,
+    "balls":6,
+    "runs":9,
+    "wickets":1,
+    "metric_value":9.0
+  },
+  {
+    "player_id":5979,
+    "player_name":"Abrar Ahmed",
+    "role":"Bowler",
+    "match_id":48915,
+    "balls":3,
+    "runs":0,
+    "wickets":1,
+    "metric_value":0.0
+  },
+  {
+    "player_id":5979,
+    "player_name":"Abrar Ahmed",
+    "role":"Bowler",
+    "match_id":48916,
+    "balls":12,
+    "runs":7,
+    "wickets":2,
+    "metric_value":3.5
+  },
+  {
+    "player_id":5979,
+    "player_name":"Abrar Ahmed",
+    "role":"Bowler",
+    "match_id":48917,
+    "balls":4,
+    "runs":5,
+    "wickets":0,
+    "metric_value":7.5
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":14094,
+    "balls":12,
+    "runs":12,
+    "wickets":1,
+    "metric_value":6.0
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":14140,
+    "balls":14,
+    "runs":23,
+    "wickets":1,
+    "metric_value":9.86
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":14156,
+    "balls":6,
+    "runs":5,
+    "wickets":0,
+    "metric_value":5.0
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":14162,
+    "balls":13,
+    "runs":12,
+    "wickets":1,
+    "metric_value":5.54
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":16258,
+    "balls":8,
+    "runs":7,
+    "wickets":1,
+    "metric_value":5.25
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":16259,
+    "balls":6,
+    "runs":11,
+    "wickets":0,
+    "metric_value":11.0
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":16666,
+    "balls":24,
+    "runs":22,
+    "wickets":1,
+    "metric_value":5.5
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":16683,
+    "balls":11,
+    "runs":6,
+    "wickets":2,
+    "metric_value":3.27
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":16684,
+    "balls":2,
+    "runs":0,
+    "wickets":1,
+    "metric_value":0.0
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":16685,
+    "balls":19,
+    "runs":24,
+    "wickets":0,
+    "metric_value":7.58
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":19715,
+    "balls":18,
+    "runs":6,
+    "wickets":1,
+    "metric_value":2.0
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":19716,
+    "balls":6,
+    "runs":5,
+    "wickets":0,
+    "metric_value":5.0
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":20181,
+    "balls":24,
+    "runs":32,
+    "wickets":0,
+    "metric_value":8.0
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":20186,
+    "balls":12,
+    "runs":13,
+    "wickets":1,
+    "metric_value":6.5
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":24792,
+    "balls":23,
+    "runs":22,
+    "wickets":2,
+    "metric_value":5.74
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":24793,
+    "balls":15,
+    "runs":20,
+    "wickets":1,
+    "metric_value":8.0
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":24794,
+    "balls":12,
+    "runs":6,
+    "wickets":1,
+    "metric_value":3.0
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":25158,
+    "balls":6,
+    "runs":11,
+    "wickets":0,
+    "metric_value":11.0
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":25160,
+    "balls":3,
+    "runs":1,
+    "wickets":0,
+    "metric_value":2.0
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":25161,
+    "balls":2,
+    "runs":1,
+    "wickets":1,
+    "metric_value":3.0
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":28332,
+    "balls":12,
+    "runs":7,
+    "wickets":1,
+    "metric_value":3.5
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":28964,
+    "balls":12,
+    "runs":19,
+    "wickets":0,
+    "metric_value":9.5
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":29982,
+    "balls":22,
+    "runs":35,
+    "wickets":2,
+    "metric_value":9.55
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":29983,
+    "balls":4,
+    "runs":7,
+    "wickets":0,
+    "metric_value":10.5
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":31271,
+    "balls":18,
+    "runs":10,
+    "wickets":1,
+    "metric_value":3.33
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":31277,
+    "balls":6,
+    "runs":17,
+    "wickets":0,
+    "metric_value":17.0
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":37894,
+    "balls":20,
+    "runs":23,
+    "wickets":1,
+    "metric_value":6.9
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":37895,
+    "balls":6,
+    "runs":4,
+    "wickets":0,
+    "metric_value":4.0
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":38632,
+    "balls":24,
+    "runs":26,
+    "wickets":0,
+    "metric_value":6.5
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":38633,
+    "balls":24,
+    "runs":21,
+    "wickets":2,
+    "metric_value":5.25
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":40696,
+    "balls":12,
+    "runs":20,
+    "wickets":0,
+    "metric_value":10.0
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":40722,
+    "balls":22,
+    "runs":30,
+    "wickets":1,
+    "metric_value":8.18
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":40754,
+    "balls":24,
+    "runs":38,
+    "wickets":2,
+    "metric_value":9.5
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":40759,
+    "balls":12,
+    "runs":7,
+    "wickets":1,
+    "metric_value":3.5
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":40766,
+    "balls":12,
+    "runs":15,
+    "wickets":0,
+    "metric_value":7.5
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":46748,
+    "balls":12,
+    "runs":15,
+    "wickets":0,
+    "metric_value":7.5
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":48591,
+    "balls":9,
+    "runs":15,
+    "wickets":1,
+    "metric_value":10.0
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":48592,
+    "balls":12,
+    "runs":26,
+    "wickets":0,
+    "metric_value":13.0
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":48595,
+    "balls":12,
+    "runs":35,
+    "wickets":1,
+    "metric_value":17.5
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":49736,
+    "balls":12,
+    "runs":2,
+    "wickets":0,
+    "metric_value":1.0
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":49737,
+    "balls":12,
+    "runs":15,
+    "wickets":1,
+    "metric_value":7.5
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":50132,
+    "balls":18,
+    "runs":22,
+    "wickets":1,
+    "metric_value":7.33
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":50144,
+    "balls":18,
+    "runs":32,
+    "wickets":1,
+    "metric_value":10.67
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":50351,
+    "balls":2,
+    "runs":1,
+    "wickets":1,
+    "metric_value":3.0
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":50354,
+    "balls":6,
+    "runs":9,
+    "wickets":1,
+    "metric_value":9.0
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":54210,
+    "balls":21,
+    "runs":32,
+    "wickets":2,
+    "metric_value":9.14
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":54211,
+    "balls":8,
+    "runs":5,
+    "wickets":1,
+    "metric_value":3.75
+  },
+  {
+    "player_id":4101,
+    "player_name":"Mitchell Santner",
+    "role":"Bowler",
+    "match_id":54212,
+    "balls":6,
+    "runs":7,
+    "wickets":0,
+    "metric_value":7.0
+  },
+  {
+    "player_id":1596,
+    "player_name":"Moeen Ali",
+    "role":"Bowler",
+    "match_id":13511,
+    "balls":6,
+    "runs":7,
+    "wickets":0,
+    "metric_value":7.0
+  },
+  {
+    "player_id":1596,
+    "player_name":"Moeen Ali",
+    "role":"Bowler",
+    "match_id":13512,
+    "balls":6,
+    "runs":3,
+    "wickets":1,
+    "metric_value":3.0
+  },
+  {
+    "player_id":1596,
+    "player_name":"Moeen Ali",
+    "role":"Bowler",
+    "match_id":13514,
+    "balls":19,
+    "runs":21,
+    "wickets":2,
+    "metric_value":6.63
+  },
+  {
+    "player_id":1596,
+    "player_name":"Moeen Ali",
+    "role":"Bowler",
+    "match_id":14100,
+    "balls":6,
+    "runs":14,
+    "wickets":0,
+    "metric_value":14.0
+  },
+  {
+    "player_id":1596,
+    "player_name":"Moeen Ali",
+    "role":"Bowler",
+    "match_id":14110,
+    "balls":6,
+    "runs":10,
+    "wickets":0,
+    "metric_value":10.0
+  },
+  {
+    "player_id":1596,
+    "player_name":"Moeen Ali",
+    "role":"Bowler",
+    "match_id":14115,
+    "balls":6,
+    "runs":1,
+    "wickets":0,
+    "metric_value":1.0
+  },
+  {
+    "player_id":1596,
+    "player_name":"Moeen Ali",
+    "role":"Bowler",
+    "match_id":14149,
+    "balls":6,
+    "runs":2,
+    "wickets":1,
+    "metric_value":2.0
+  },
+  {
+    "player_id":1596,
+    "player_name":"Moeen Ali",
+    "role":"Bowler",
+    "match_id":14153,
+    "balls":11,
+    "runs":17,
+    "wickets":1,
+    "metric_value":9.27
+  },
+  {
+    "player_id":1596,
+    "player_name":"Moeen Ali",
+    "role":"Bowler",
+    "match_id":14156,
+    "balls":6,
+    "runs":6,
+    "wickets":1,
+    "metric_value":6.0
+  },
+  {
+    "player_id":1596,
+    "player_name":"Moeen Ali",
+    "role":"Bowler",
+    "match_id":14162,
+    "balls":24,
+    "runs":21,
+    "wickets":1,
+    "metric_value":5.25
+  },
+  {
+    "player_id":1596,
+    "player_name":"Moeen Ali",
+    "role":"Bowler",
+    "match_id":17554,
+    "balls":5,
+    "runs":15,
+    "wickets":0,
+    "metric_value":18.0
+  },
+  {
+    "player_id":1596,
+    "player_name":"Moeen Ali",
+    "role":"Bowler",
+    "match_id":17763,
+    "balls":6,
+    "runs":11,
+    "wickets":0,
+    "metric_value":11.0
+  },
+  {
+    "player_id":1596,
+    "player_name":"Moeen Ali",
+    "role":"Bowler",
+    "match_id":20133,
+    "balls":18,
+    "runs":19,
+    "wickets":1,
+    "metric_value":6.33
+  },
+  {
+    "player_id":1596,
+    "player_name":"Moeen Ali",
+    "role":"Bowler",
+    "match_id":20134,
+    "balls":12,
+    "runs":17,
+    "wickets":1,
+    "metric_value":8.5
+  },
+  {
+    "player_id":1596,
+    "player_name":"Moeen Ali",
+    "role":"Bowler",
+    "match_id":20186,
+    "balls":18,
+    "runs":18,
+    "wickets":3,
+    "metric_value":6.0
+  },
+  {
+    "player_id":1596,
+    "player_name":"Moeen Ali",
+    "role":"Bowler",
+    "match_id":20204,
+    "balls":6,
+    "runs":13,
+    "wickets":1,
+    "metric_value":13.0
+  },
+  {
+    "player_id":1596,
+    "player_name":"Moeen Ali",
+    "role":"Bowler",
+    "match_id":20221,
+    "balls":6,
+    "runs":10,
+    "wickets":0,
+    "metric_value":10.0
+  },
+  {
+    "player_id":1596,
+    "player_name":"Moeen Ali",
+    "role":"Bowler",
+    "match_id":20235,
+    "balls":18,
+    "runs":13,
+    "wickets":0,
+    "metric_value":4.33
+  },
+  {
+    "player_id":1596,
+    "player_name":"Moeen Ali",
+    "role":"Bowler",
+    "match_id":20241,
+    "balls":24,
+    "runs":31,
+    "wickets":0,
+    "metric_value":7.75
+  },
+  {
+    "player_id":1596,
+    "player_name":"Moeen Ali",
+    "role":"Bowler",
+    "match_id":25161,
+    "balls":14,
+    "runs":23,
+    "wickets":0,
+    "metric_value":9.86
+  },
+  {
+    "player_id":1596,
+    "player_name":"Moeen Ali",
+    "role":"Bowler",
+    "match_id":28067,
+    "balls":6,
+    "runs":9,
+    "wickets":0,
+    "metric_value":9.0
+  },
+  {
+    "player_id":1596,
+    "player_name":"Moeen Ali",
+    "role":"Bowler",
+    "match_id":30073,
+    "balls":18,
+    "runs":22,
+    "wickets":2,
+    "metric_value":7.33
+  },
+  {
+    "player_id":1596,
+    "player_name":"Moeen Ali",
+    "role":"Bowler",
+    "match_id":31252,
+    "balls":6,
+    "runs":5,
+    "wickets":0,
+    "metric_value":5.0
+  },
+  {
+    "player_id":1596,
+    "player_name":"Moeen Ali",
+    "role":"Bowler",
+    "match_id":31267,
+    "balls":12,
+    "runs":22,
+    "wickets":0,
+    "metric_value":11.0
+  },
+  {
+    "player_id":1596,
+    "player_name":"Moeen Ali",
+    "role":"Bowler",
+    "match_id":32611,
+    "balls":24,
+    "runs":26,
+    "wickets":2,
+    "metric_value":6.5
+  },
+  {
+    "player_id":1596,
+    "player_name":"Moeen Ali",
+    "role":"Bowler",
+    "match_id":40746,
+    "balls":13,
+    "runs":16,
+    "wickets":2,
+    "metric_value":7.38
+  },
+  {
+    "player_id":1596,
+    "player_name":"Moeen Ali",
+    "role":"Bowler",
+    "match_id":40750,
+    "balls":12,
+    "runs":23,
+    "wickets":1,
+    "metric_value":11.5
+  },
+  {
+    "player_id":5379,
+    "player_name":"Mark Adair",
+    "role":"Bowler",
+    "match_id":15796,
+    "balls":12,
+    "runs":26,
+    "wickets":2,
+    "metric_value":13.0
+  },
+  {
+    "player_id":5379,
+    "player_name":"Mark Adair",
+    "role":"Bowler",
+    "match_id":16259,
+    "balls":4,
+    "runs":3,
+    "wickets":0,
+    "metric_value":4.5
+  },
+  {
+    "player_id":5379,
+    "player_name":"Mark Adair",
+    "role":"Bowler",
+    "match_id":16260,
+    "balls":18,
+    "runs":22,
+    "wickets":0,
+    "metric_value":7.33
+  },
+  {
+    "player_id":5379,
+    "player_name":"Mark Adair",
+    "role":"Bowler",
+    "match_id":16646,
+    "balls":12,
+    "runs":34,
+    "wickets":0,
+    "metric_value":17.0
+  },
+  {
+    "player_id":5379,
+    "player_name":"Mark Adair",
+    "role":"Bowler",
+    "match_id":16647,
+    "balls":2,
+    "runs":4,
+    "wickets":1,
+    "metric_value":12.0
+  },
+  {
+    "player_id":5379,
+    "player_name":"Mark Adair",
+    "role":"Bowler",
+    "match_id":16752,
+    "balls":10,
+    "runs":19,
+    "wickets":1,
+    "metric_value":11.4
+  },
+  {
+    "player_id":5379,
+    "player_name":"Mark Adair",
+    "role":"Bowler",
+    "match_id":16753,
+    "balls":1,
+    "runs":0,
+    "wickets":0,
+    "metric_value":0.0
+  },
+  {
+    "player_id":5379,
+    "player_name":"Mark Adair",
+    "role":"Bowler",
+    "match_id":19690,
+    "balls":6,
+    "runs":5,
+    "wickets":1,
+    "metric_value":5.0
+  },
+  {
+    "player_id":5379,
+    "player_name":"Mark Adair",
+    "role":"Bowler",
+    "match_id":19692,
+    "balls":18,
+    "runs":13,
+    "wickets":1,
+    "metric_value":4.33
+  },
+  {
+    "player_id":5379,
+    "player_name":"Mark Adair",
+    "role":"Bowler",
+    "match_id":21070,
+    "balls":14,
+    "runs":33,
+    "wickets":1,
+    "metric_value":14.14
+  },
+  {
+    "player_id":5379,
+    "player_name":"Mark Adair",
+    "role":"Bowler",
+    "match_id":21071,
+    "balls":17,
+    "runs":31,
+    "wickets":1,
+    "metric_value":10.94
+  },
+  {
+    "player_id":5379,
+    "player_name":"Mark Adair",
+    "role":"Bowler",
+    "match_id":24822,
+    "balls":3,
+    "runs":6,
+    "wickets":0,
+    "metric_value":12.0
+  },
+  {
+    "player_id":5379,
+    "player_name":"Mark Adair",
+    "role":"Bowler",
+    "match_id":24823,
+    "balls":4,
+    "runs":7,
+    "wickets":1,
+    "metric_value":10.5
+  },
+  {
+    "player_id":5379,
+    "player_name":"Mark Adair",
+    "role":"Bowler",
+    "match_id":28057,
+    "balls":24,
+    "runs":35,
+    "wickets":2,
+    "metric_value":8.75
+  },
+  {
+    "player_id":5379,
+    "player_name":"Mark Adair",
+    "role":"Bowler",
+    "match_id":30728,
+    "balls":12,
+    "runs":17,
+    "wickets":1,
+    "metric_value":8.5
+  },
+  {
+    "player_id":5379,
+    "player_name":"Mark Adair",
+    "role":"Bowler",
+    "match_id":32290,
+    "balls":1,
+    "runs":0,
+    "wickets":0,
+    "metric_value":0.0
+  },
+  {
+    "player_id":5379,
+    "player_name":"Mark Adair",
+    "role":"Bowler",
+    "match_id":32291,
+    "balls":23,
+    "runs":40,
+    "wickets":1,
+    "metric_value":10.43
+  },
+  {
+    "player_id":5379,
+    "player_name":"Mark Adair",
+    "role":"Bowler",
+    "match_id":32292,
+    "balls":24,
+    "runs":25,
+    "wickets":3,
+    "metric_value":6.25
+  },
+  {
+    "player_id":5379,
+    "player_name":"Mark Adair",
+    "role":"Bowler",
+    "match_id":32621,
+    "balls":12,
+    "runs":11,
+    "wickets":0,
+    "metric_value":5.5
+  },
+  {
+    "player_id":5379,
+    "player_name":"Mark Adair",
+    "role":"Bowler",
+    "match_id":32625,
+    "balls":24,
+    "runs":21,
+    "wickets":2,
+    "metric_value":5.25
+  },
+  {
+    "player_id":5379,
+    "player_name":"Mark Adair",
+    "role":"Bowler",
+    "match_id":37014,
+    "balls":22,
+    "runs":30,
+    "wickets":1,
+    "metric_value":8.18
+  },
+  {
+    "player_id":5379,
+    "player_name":"Mark Adair",
+    "role":"Bowler",
+    "match_id":37015,
+    "balls":21,
+    "runs":25,
+    "wickets":3,
+    "metric_value":7.14
+  },
+  {
+    "player_id":5379,
+    "player_name":"Mark Adair",
+    "role":"Bowler",
+    "match_id":41504,
+    "balls":12,
+    "runs":24,
+    "wickets":1,
+    "metric_value":12.0
+  },
+  {
+    "player_id":5379,
+    "player_name":"Mark Adair",
+    "role":"Bowler",
+    "match_id":47241,
+    "balls":12,
+    "runs":3,
+    "wickets":2,
+    "metric_value":1.5
+  },
+  {
+    "player_id":5379,
+    "player_name":"Mark Adair",
+    "role":"Bowler",
+    "match_id":47242,
+    "balls":24,
+    "runs":36,
+    "wickets":2,
+    "metric_value":9.0
+  },
+  {
+    "player_id":5379,
+    "player_name":"Mark Adair",
+    "role":"Bowler",
+    "match_id":48466,
+    "balls":12,
+    "runs":16,
+    "wickets":0,
+    "metric_value":8.0
+  },
+  {
+    "player_id":5379,
+    "player_name":"Mark Adair",
+    "role":"Bowler",
+    "match_id":48467,
+    "balls":12,
+    "runs":12,
+    "wickets":0,
+    "metric_value":6.0
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Bowler",
+    "match_id":15609,
+    "balls":23,
+    "runs":16,
+    "wickets":0,
+    "metric_value":4.17
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Bowler",
+    "match_id":16424,
+    "balls":6,
+    "runs":6,
+    "wickets":0,
+    "metric_value":6.0
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Bowler",
+    "match_id":16425,
+    "balls":12,
+    "runs":14,
+    "wickets":0,
+    "metric_value":7.0
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Bowler",
+    "match_id":16426,
+    "balls":22,
+    "runs":20,
+    "wickets":0,
+    "metric_value":5.45
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Bowler",
+    "match_id":20182,
+    "balls":14,
+    "runs":19,
+    "wickets":1,
+    "metric_value":8.14
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Bowler",
+    "match_id":20188,
+    "balls":6,
+    "runs":5,
+    "wickets":0,
+    "metric_value":5.0
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Bowler",
+    "match_id":20218,
+    "balls":1,
+    "runs":1,
+    "wickets":0,
+    "metric_value":6.0
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Bowler",
+    "match_id":28957,
+    "balls":13,
+    "runs":5,
+    "wickets":3,
+    "metric_value":2.31
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Bowler",
+    "match_id":32132,
+    "balls":12,
+    "runs":18,
+    "wickets":0,
+    "metric_value":9.0
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Bowler",
+    "match_id":32133,
+    "balls":24,
+    "runs":28,
+    "wickets":0,
+    "metric_value":7.0
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Bowler",
+    "match_id":33803,
+    "balls":8,
+    "runs":5,
+    "wickets":2,
+    "metric_value":3.75
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Bowler",
+    "match_id":33805,
+    "balls":4,
+    "runs":8,
+    "wickets":0,
+    "metric_value":12.0
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Bowler",
+    "match_id":38628,
+    "balls":24,
+    "runs":18,
+    "wickets":2,
+    "metric_value":4.5
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Bowler",
+    "match_id":45903,
+    "balls":24,
+    "runs":26,
+    "wickets":1,
+    "metric_value":6.5
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Bowler",
+    "match_id":45905,
+    "balls":24,
+    "runs":28,
+    "wickets":1,
+    "metric_value":7.0
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Bowler",
+    "match_id":47261,
+    "balls":12,
+    "runs":9,
+    "wickets":0,
+    "metric_value":4.5
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Bowler",
+    "match_id":47262,
+    "balls":14,
+    "runs":9,
+    "wickets":0,
+    "metric_value":3.86
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Bowler",
+    "match_id":47976,
+    "balls":22,
+    "runs":23,
+    "wickets":0,
+    "metric_value":6.27
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Bowler",
+    "match_id":47977,
+    "balls":6,
+    "runs":3,
+    "wickets":0,
+    "metric_value":3.0
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Bowler",
+    "match_id":47979,
+    "balls":12,
+    "runs":20,
+    "wickets":2,
+    "metric_value":10.0
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Bowler",
+    "match_id":47980,
+    "balls":12,
+    "runs":10,
+    "wickets":0,
+    "metric_value":5.0
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Bowler",
+    "match_id":50509,
+    "balls":6,
+    "runs":7,
+    "wickets":0,
+    "metric_value":7.0
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Bowler",
+    "match_id":51383,
+    "balls":15,
+    "runs":23,
+    "wickets":0,
+    "metric_value":9.2
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Bowler",
+    "match_id":51385,
+    "balls":24,
+    "runs":31,
+    "wickets":2,
+    "metric_value":7.75
+  },
+  {
+    "player_id":2984,
+    "player_name":"Sikandar Raza",
+    "role":"Bowler",
+    "match_id":55560,
+    "balls":6,
+    "runs":15,
+    "wickets":1,
+    "metric_value":15.0
+  },
+  {
+    "player_id":7325,
+    "player_name":"Harpreet Brar",
+    "role":"Bowler",
+    "match_id":14154,
+    "balls":13,
+    "runs":17,
+    "wickets":0,
+    "metric_value":7.85
+  },
+  {
+    "player_id":7325,
+    "player_name":"Harpreet Brar",
+    "role":"Bowler",
+    "match_id":20188,
+    "balls":12,
+    "runs":15,
+    "wickets":0,
+    "metric_value":7.5
+  },
+  {
+    "player_id":7325,
+    "player_name":"Harpreet Brar",
+    "role":"Bowler",
+    "match_id":20194,
+    "balls":19,
+    "runs":26,
+    "wickets":0,
+    "metric_value":8.21
+  },
+  {
+    "player_id":7325,
+    "player_name":"Harpreet Brar",
+    "role":"Bowler",
+    "match_id":20198,
+    "balls":17,
+    "runs":12,
+    "wickets":1,
+    "metric_value":4.24
+  },
+  {
+    "player_id":7325,
+    "player_name":"Harpreet Brar",
+    "role":"Bowler",
+    "match_id":20207,
+    "balls":4,
+    "runs":1,
+    "wickets":2,
+    "metric_value":1.5
+  },
+  {
+    "player_id":7325,
+    "player_name":"Harpreet Brar",
+    "role":"Bowler",
+    "match_id":20211,
+    "balls":6,
+    "runs":8,
+    "wickets":0,
+    "metric_value":8.0
+  },
+  {
+    "player_id":7325,
+    "player_name":"Harpreet Brar",
+    "role":"Bowler",
+    "match_id":20233,
+    "balls":6,
+    "runs":4,
+    "wickets":1,
+    "metric_value":4.0
+  },
+  {
+    "player_id":7325,
+    "player_name":"Harpreet Brar",
+    "role":"Bowler",
+    "match_id":20239,
+    "balls":19,
+    "runs":26,
+    "wickets":4,
+    "metric_value":8.21
+  },
+  {
+    "player_id":7325,
+    "player_name":"Harpreet Brar",
+    "role":"Bowler",
+    "match_id":20244,
+    "balls":18,
+    "runs":37,
+    "wickets":0,
+    "metric_value":12.33
+  },
+  {
+    "player_id":7325,
+    "player_name":"Harpreet Brar",
+    "role":"Bowler",
+    "match_id":30061,
+    "balls":23,
+    "runs":12,
+    "wickets":2,
+    "metric_value":3.13
+  },
+  {
+    "player_id":7325,
+    "player_name":"Harpreet Brar",
+    "role":"Bowler",
+    "match_id":31245,
+    "balls":18,
+    "runs":22,
+    "wickets":0,
+    "metric_value":7.33
+  },
+  {
+    "player_id":7325,
+    "player_name":"Harpreet Brar",
+    "role":"Bowler",
+    "match_id":31255,
+    "balls":24,
+    "runs":35,
+    "wickets":0,
+    "metric_value":8.75
+  },
+  {
+    "player_id":7325,
+    "player_name":"Harpreet Brar",
+    "role":"Bowler",
+    "match_id":31260,
+    "balls":12,
+    "runs":21,
+    "wickets":0,
+    "metric_value":10.5
+  },
+  {
+    "player_id":7325,
+    "player_name":"Harpreet Brar",
+    "role":"Bowler",
+    "match_id":31287,
+    "balls":18,
+    "runs":31,
+    "wickets":1,
+    "metric_value":10.33
+  },
+  {
+    "player_id":7325,
+    "player_name":"Harpreet Brar",
+    "role":"Bowler",
+    "match_id":40730,
+    "balls":24,
+    "runs":27,
+    "wickets":1,
+    "metric_value":6.75
+  },
+  {
+    "player_id":7325,
+    "player_name":"Harpreet Brar",
+    "role":"Bowler",
+    "match_id":40760,
+    "balls":21,
+    "runs":20,
+    "wickets":3,
+    "metric_value":5.71
+  },
+  {
+    "player_id":7325,
+    "player_name":"Harpreet Brar",
+    "role":"Bowler",
+    "match_id":43057,
+    "balls":24,
+    "runs":40,
+    "wickets":2,
+    "metric_value":10.0
+  },
+  {
+    "player_id":7325,
+    "player_name":"Harpreet Brar",
+    "role":"Bowler",
+    "match_id":50361,
+    "balls":21,
+    "runs":18,
+    "wickets":0,
+    "metric_value":5.14
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Riyan Parag",
+    "role": "Captain & Middle Batter",
+    "nationality": "Indian",
+    "type": "Retained",
+    "category": "Core"
+  },
+  {
+    "name": "Yashasvi Jaiswal",
+    "role": "Top-Order Opener",
+    "nationality": "Indian",
+    "type": "Retained",
+    "category": "Core"
+  },
+  {
+    "name": "Vaibhav Sooryavanshi",
+    "role": "Top-Order Batter",
+    "nationality": "Indian",
+    "type": "Retained",
+    "category": "Emerging"
+  },
+  {
+    "name": "Dhruv Jurel",
+    "role": "Wicketkeeper-Batter",
+    "nationality": "Indian",
+    "type": "Retained",
+    "category": "Core"
+  },
+  {
+    "name": "Ravindra Jadeja",
+    "role": "All-Rounder (LA Spin)",
+    "nationality": "Indian",
+    "type": "Retained",
+    "category": "Core"
+  },
+  {
+    "name": "Jofra Archer",
+    "role": "Fast Bowler",
+    "nationality": "Overseas",
+    "type": "Retained",
+    "category": "Pace"
+  },
+  {
+    "name": "Mohammed Shami",
+    "role": "Fast-Medium Bowler",
+    "nationality": "Indian",
+    "type": "Traded in from LSG",
+    "category": "Pace"
+  },
+  {
+    "name": "Sandeep Sharma",
+    "role": "Pace Bowler / Death Specialist",
+    "nationality": "Indian",
+    "type": "Retained",
+    "category": "Pace"
+  },
+  {
+    "name": "Ravi Bishnoi",
+    "role": "Leg-Spin Bowler",
+    "nationality": "Indian",
+    "type": "Retained",
+    "category": "Spin"
+  },
+  {
+    "name": "Manimaran Siddharth",
+    "role": "Left-Arm Orthodox Spinner",
+    "nationality": "Indian",
+    "type": "Traded in from LSG",
+    "category": "Spin"
+  },
+  {
+    "name": "Nandre Burger",
+    "role": "Left-Arm Fast Bowler",
+    "nationality": "Overseas",
+    "type": "Retained",
+    "category": "Pace"
+  },
+  {
+    "name": "Dasun Shanaka",
+    "role": "Pace-Bowling All-Rounder",
+    "nationality": "Overseas",
+    "type": "Retained",
+    "category": "All-Rounder"
+  },
+  {
+    "name": "Donovan Ferreira",
+    "role": "Power Finisher / WK",
+    "nationality": "Overseas",
+    "type": "Retained",
+    "category": "Finisher"
+  },
+  {
+    "name": "Lhuan-dre Pretorius",
+    "role": "Top-Order WK-Batter",
+    "nationality": "Overseas",
+    "type": "Retained",
+    "category": "Emerging"
+  },
+  {
+    "name": "Shubham Dubey",
+    "role": "Lower-Order Finisher",
+    "nationality": "Indian",
+    "type": "Retained",
+    "category": "Finisher"
+  },
+  {
+    "name": "Brijesh Sharma",
+    "role": "Batter",
+    "nationality": "Indian",
+    "type": "Retained",
+    "category": "Bench"
+  },
+  {
+    "name": "Aman Rao Perala",
+    "role": "Batter",
+    "nationality": "Indian",
+    "type": "Retained",
+    "category": "Bench"
+  },
+  {
+    "name": "Sushant Mishra",
+    "role": "Fast Bowler",
+    "nationality": "Indian",
+    "type": "Retained",
+    "category": "Pace Bench"
+  },
+  {
+    "name": "Yash Raj Punja",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "type": "Retained",
+    "category": "Pace Bench"
+  }
+]
