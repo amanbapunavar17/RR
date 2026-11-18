@@ -1,0 +1,61 @@
+--- PAGE 1 ---
+Salary Salary Salary Salary Salary
+* Akeal Hosein 200 Ashutosh Sharma 380 Anuj Rawat 30 Angkrish Raghuvanshi 300 Abdul Samad 420
+Anshul Kamboj 340 Auqib Dar 840 Ashok Sharma 90 Anukul Roy 40 * Aiden Markram 200
+Ayush Mhatre 30 Axar Patel 1650 * Glenn Phillips 200 * Cameron Green 2520 Akash Singh 30
+* Dewald Brevis 220 * David Miller 200 Gurnoor Singh Brar 130 * Finn Allen 200 Akshat Raghuwanshi 220
+Gurjapneet Singh 220 KL Rahul 1400 Harshal Patel (T) 400 Harshit Rana 400 Arjun Tendulkar 30
+* Jack Edwards (T) 300 * Kyle Jamieson 200 * Jason Holder 700 Kartik Tyagi 30 Arshin Kulkarni 30
+* Jamie Overton 150 * Lungisani Ngidi 200 Jayant Yadav 75 Manish Pandey 75 Ayush Badoni 400
+Kartik Sharma 1420 Madhav Tiwari 40 * Jos Buttler 1575 Prashant Solanki 30 Digvesh Rathi 30
+* Liam Livingstone (T) 600 Mukesh Kumar 800 * Kagiso Rabada 1075 Ramandeep Singh 400 * Josh Inglis 860
+Mukesh Choudhary 30 Prithvi Shaw 75 Kumar Kushagra 65 Rinku Singh 1300 Kuldeep Yadav (T) 1325
+* Noor Ahmad 1000 Rishabh Pant (T) 1500 Manav Suthar 30 * Rovman Powell 150 Mayank Yadav 1100
+Rahul Chahar 520 Sameer Rizvi 95 Mohammad Siraj 1225 Sarthak Ranjan 30 * Mitchell Marsh 340
+Ramakrishna Ghosh 30 Tripurana Vijay 30 Mohd. Arshad Khan 130 Saurabh Dubey 30 Mohsin Khan 400
+Ruturaj Gaikwad 1800 * Tristan Stubbs 1000 Nishant Sindhu 30 * Sunil Narine 1200 Mukul Choudhary 260
+Sanju Samson 1800 Vipraj Nigam 50 Prasidh Krishna 950 * Tim Seifert 150 * Nicholas Pooran 2100
+Sarfaraz Khan 75 Zeeshan Ansari (T) 40 R. Sai Kishore 200 Vaibhav Arora 180 Prince Yadav 30
+Shivam Dube 1200 Rahul Tewatia 400 Varun Chakaravarthy 1200 * Sam Curran (T) 240
+Shreyas Gopal 30 * Rashid Khan 1800 Shahbaz Ahmed 240
+Urvil Patel 30 Sai Sudharsan 850
+Shubman Gill 1650
+* Tom Banton 200
+Washington Sundar 320
+No of Players 19 No of Players 16 No of Players 22 No of Players 17 No of Players 18
+No of Overseas Players 6 No of Overseas Players 4 No of Overseas Players 6 No of Overseas Players 5 No of Overseas Players 5
+Total  money spent 9995 Total  money spent 8500 Total  money spent 12125 Total  money spent 8235 Total  money spent 8255
+Retention Deduction 200 Retention Deduction 550 Retention Deduction 0 Retention Deduction 600 Retention Deduction 0
+Salary cap available 2805 Salary cap available 3950 Salary cap available 875 Salary cap available 4165 Salary cap available 4745
+* = Overseas player
+Salary Salary Salary Salary Salary
+Arshdeep Singh (T) 1800 * Azmatullah Omarzai 240 Aman Rao Perala 30 Abhinandan Singh 30 Abhishek Sharma 1400
+Ashwani Kumar 30 * Ben Dwarshuis 440 Brijesh Sharma 30 Bhuvneshwar Kumar 1075 Aniket Verma 30
+* Corbin Bosch 75 * Cooper Connolly 300 * Dasun Shanaka 200 Devdutt Padikkal 200 * Brydon Carse 100
+Jasprit Bumrah 1800 Hardik Pandya (T) 1800 Dhruv Jurel 1400 * Jacob Duffy 200 * Eshan Malinga 120
+* Mitchell Santner 200 Harnoor Pannu 30 * Donovan Ferreira 100 Jitesh Sharma 1100 Harsh Dubey 30
+Naman Dhir 525 Harpreet Brar 150 * Jofra Archer 1250 * Jordan Cox 75 * Heinrich Klaasen 2300
+* Quinton de Kock 100 * Marco Jansen 700 * Lhuan-dre Pretorius 30 * Josh Hazlewood 1250 Ishan Kishan 1125
+Raghu Sharma 30 * Marcus Stoinis 1100 Manimaran Siddharth (T) 75 Kanishk Chouhan 30 Khaleel Ahmed (T) 480
+Raj Angad Bawa 30 Musheer Khan 30 Mohammed Shami (T) 800 Krunal Pandya 575 Krains Fuletra 30
+Rohit Sharma 1630 Prabhsimran Singh 400 * Nandre Burger 350 * Nuwan Thushara 160 * Nathan Ellis (T) 200
+* Ryan Rickelton 100 Priyansh Arya 380 Ravi Bishnoi 720 * Phil Salt 1150 Nitish Kumar Reddy 600
+Shardul Thakur 200 Shashank Singh 550 Ravindra Jadeja 1400 Rajat Patidar 1100 * Pat Cummins 1800
+* Sherfane Rutherford 260 Shreyas Iyer 2675 Riyan Parag 1400 Rasikh Dar 600 Praful Hinge 30
+Suryakumar Yadav 1635 Suryansh Shedge 30 Sandeep Sharma 400 * Romario Shepherd 150 Sakib Hussain 30
+Tilak Varma 800 Vishnu Vinod 95 Shubham Dubey 80 Suyash Sharma 260 Salil Arora 150
+* Will Jacks 525 Vyshak Vijaykumar 180 Sushant Mishra 90 * Tim David 300 Shivang Kumar 30
+* Xavier Bartlett 80 Vaibhav Sooryavanshi 110 Venkatesh Iyer 700 Smaran Ravichandran 30
+Yash Thakur 160 Yash Raj Punja 30 Vicky Ostwal 30 T. Natarajan (T) 500
+Yuzvendra Chahal 1800 Yashasvi Jaiswal 1800 Virat Kohli 2100
+Yash Dayal 500
+No of Players 16 No of Players 19 No of Players 19 No of Players 20 No of Players 18
+No of Overseas Players 6 No of Overseas Players 6 No of Overseas Players 5 No of Overseas Players 7 No of Overseas Players 5
+Total  money spent 9740 Total  money spent 11140 Total  money spent 10295 Total  money spent 11585 Total  money spent 8985
+Retention Deduction 0 Retention Deduction 0 Retention Deduction 0 Retention Deduction 0 Retention Deduction 0
+Salary cap available 3260 Salary cap available 1860 Salary cap available 2705 Salary cap available 1415 Salary cap available 4015
+* = Overseas player
+Player
+TATA IPL 2027 - Retained Player List
+Player Player Player Player Player
+Player Player Player Player

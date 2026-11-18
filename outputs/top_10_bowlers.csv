@@ -1,0 +1,11 @@
+rank,player_name,player_id,pressure_score,normal_baseline,pressure_econ,pressure_wickets,pressure_dot_pct,sample_reliability,match_count,confidence_indicator,statistical_justification
+1,Haris Rauf,7364,83.31,8.71,7.67,27,41.32,0.848,31,High,Elite death executioner conceding just 7.67 rpo (-1.04 vs baseline) with 27 clutch wickets across 31 high-leverage matches.
+2,Mohammad Nawaz,2490,83.06,7.03,7.07,24,38.22,0.84,23,High,Exceptional left-arm squeeze conceding 7.07 rpo under pressure with 24 clutch wickets (13.1 balls/wkt) across 23 matches.
+3,Ravichandran Ashwin,305,73.98,7.78,6.83,15,34.18,0.855,26,High,Master tactician conceding just 6.83 rpo under pressure (-0.95 tighter) across 354 clutch IPL balls.
+4,Patrick Cummins,1758,73.61,9.35,7.77,20,39.88,0.852,34,High,Aggressive death and middle enforcer dropping economy by 1.58 rpo to 7.77 under high leverage across 34 matches.
+5,Trent Boult,2320,71.77,8.39,7.57,26,42.92,0.884,41,Very High,Powerplay and death specialist tightening by 0.82 rpo to 7.57 with 26 wickets across 459 clutch balls.
+6,Axar Patel,2876,68.7,7.88,7.44,33,36.98,0.91,52,Very High,"Ironclad multi-phase container with 603 pressure balls across 52 matches, tightening to 7.44 rpo with 33 wickets."
+7,Mitchell Santner,4101,67.83,7.1,7.57,24,37.87,0.859,33,High,Left-arm dart specialist suffocating batters to 7.57 rpo with 24 clutch wickets across 33 international matches.
+8,Krunal Pandya,4219,67.5,7.82,7.2,19,33.6,0.864,29,High,Reliable middle-over stabilizer dropping economy by 0.62 rpo to 7.20 across 381 pressure IPL balls.
+9,Kuldeep Yadav,3644,66.78,7.82,7.92,26,33.66,0.873,33,Very High,Clutch wrist-spinner taking 26 wickets at 7.92 rpo across 413 high-pressure deliveries in tight encounters.
+10,Prasidh Krishna,4489,65.36,8.89,8.36,20,44.03,0.841,33,High,Length-ball enforcer tightening by 0.53 rpo to 8.36 with 20 clutch wickets across 33 high-pressure appearances.

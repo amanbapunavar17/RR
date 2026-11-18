@@ -1,0 +1,8 @@
+player_id,player_name,nationality,capped_status,primary_role,last_ipl_franchise,pressure_balls,pressure_runs,dismissals,pressure_sr,normal_baseline,delta_sr,shrunk_sr,shrunk_delta,pressure_avg,consistency,match_count,ipl_balls,t20i_balls,sample_weight,dim_a_composite,dim_a_score,dim_b_score,auction_priority_score,rank
+25139,Shubham Dubey,India,Uncapped,Finisher (LHB),Rajasthan Royals,83,156,4,187.95,98.46,89.49,173.89,65.73,39.0,0.6,17,83,0,0.735,1.2458598833360663,95.0,100.0,97.25,1
+8101,Ashutosh Sharma,India,Uncapped,Finisher (RHB),Punjab Kings,215,375,17,174.42,132.03,42.39,169.59,37.2,22.06,0.714,28,209,0,0.878,0.6000884808501881,71.67,100.0,84.42,2
+45749,Mukul Choudhary,India,Uncapped,Middle Order (RHB),Lucknow Super Giants,75,124,4,165.33,97.87,67.46,156.67,48.19,31.0,0.75,10,75,0,0.714,0.6039269807512033,71.81,80.0,75.5,3
+37052,Naman Dhir,India,Uncapped,Middle Order (RHB / Off-spin),Mumbai Indians,120,216,11,180.0,160.66,19.34,171.0,15.47,19.64,0.556,46,100,18,0.8,0.025338390037835945,50.92,90.0,68.51,4
+8238,Sameer Rizvi,India,Uncapped,Middle Order (RHB),Chennai Super Kings,94,158,5,168.09,126.67,41.42,160.08,31.4,31.6,0.556,18,94,0,0.758,0.15135645042504106,55.47,80.0,66.51,5
+3782,M Shahrukh Khan,India,Uncapped,Finisher (RHB / Off-spin),Gujarat Titans,147,222,11,151.02,139.86,11.16,148.31,9.27,20.18,0.571,43,147,0,0.831,-0.6983625363324154,24.78,95.0,56.38,6
+26906,Angkrish Raghuvanshi,India,Uncapped,Top Order (RHB),Kolkata Knight Riders,41,67,4,163.41,139.35,24.06,151.41,13.89,16.75,0.5,30,41,0,0.577,-0.7414922794205994,23.22,80.0,48.77,10

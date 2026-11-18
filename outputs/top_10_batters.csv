@@ -1,0 +1,11 @@
+rank,player_name,player_id,pressure_score,normal_baseline,pressure_sr,pressure_runs,pressure_balls,dismissals,sample_reliability,match_count,confidence_indicator,statistical_justification
+1,Matthew Wade,796,85.61,124.34,154.73,311,201,5,0.834,16,High,Elite dual-phase finisher with +30.39 SR surge and 62.20 avg under clutch death and chase pressure across 16 matches.
+2,Akeal Hosein,2417,84.49,80.39,168.6,204,121,8,0.752,21,High,Spectacular lower-order accelerator generating a +88.20 SR elevation under high chase leverage across 21 matches.
+3,Ashutosh Sharma,8101,78.78,145.74,179.26,389,217,17,0.844,22,High,"Highest IPL-specific clutch striker (179.26 SR, +33.53 lift) executing in impossible death-over rescue situations."
+4,Dinesh Karthik,143,77.24,159.18,182.22,410,225,14,0.849,25,High,Veteran clutch master with 182.22 pressure SR (+23.04 lift) across 25 high-leverage death innings.
+5,Rinku Singh,4708,76.21,147.87,163.01,639,392,14,0.907,31,Very High,"Peerless chase anchor with 392 pressure deliveries, 45.64 avg, and unmatched game-winning boundary conversion."
+6,Rohit Sharma,126,75.63,141.79,163.06,256,157,7,0.797,18,High,Top-order powerplay/middle pressure absorbant surging to 163.06 SR (+21.27 lift) when early wickets fall.
+7,Abhishek Sharma,6281,74.04,186.91,187.76,276,147,10,0.786,20,High,Maximum velocity opener striking at 187.76 against hostile early and middle-over bowling clamps.
+8,Shubman Gill,6288,73.63,148.29,163.32,325,199,8,0.833,17,High,Anchor-turned-accelerator with 40.62 avg and 163.32 SR (+15.03 lift) holding pressurized chases together.
+9,Reeza Hendricks,768,70.77,144.2,157.14,242,154,5,0.794,12,High,Anchor with 48.40 average and +12.94 SR surge navigating severe powerplay collapses and middle-over squeezes.
+10,Tim David,6396,70.58,178.37,176.58,867,491,27,0.925,51,Very High,High-volume power finisher with 491 pressure balls across 51 matches maintaining elite 176.58 scoring velocity.

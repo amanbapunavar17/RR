@@ -1,0 +1,20 @@
+player_id,player_name,nationality,role,exclusion_category,reason
+7364,Haris Rauf,Pakistan,Bowler,EXCLUDED_POLICY,BCCI Policy: Pakistani players cannot participate in IPL.
+2490,Mohammad Nawaz,Pakistan,Bowler,EXCLUDED_POLICY,BCCI Policy: Pakistani players cannot participate in IPL.
+6355,Shaheen Afridi,Pakistan,Bowler,EXCLUDED_POLICY,BCCI Policy: Pakistani players cannot participate in IPL.
+143,Dinesh Karthik,India,Batter,EXCLUDED_RETIRED,Retired from IPL after 2024 season; RCB Mentor/Coach.
+796,Matthew Wade,Australia,Batter,EXCLUDED_RETIRED,Retired from international cricket; not playing IPL.
+142,Shikhar Dhawan,India,Batter,EXCLUDED_RETIRED,Officially announced retirement from all cricket in August 2024.
+161,Dwayne Bravo,West Indies,Bowler,EXCLUDED_RETIRED,Retired from all cricket in September 2024; KKR Mentor.
+126,Rohit Sharma,India,Batter,EXCLUDED_RETAINED,Mumbai Indians top core retention (INR 16.30 Cr).
+6288,Shubman Gill,India,Batter,EXCLUDED_RETAINED,Gujarat Titans captain & top retention (INR 16.5 Cr).
+1758,Patrick Cummins,Australia,Bowler,EXCLUDED_RETAINED,Sunrisers Hyderabad captain & top retention (INR 18 Cr).
+2876,Axar Patel,India,Bowler,EXCLUDED_RETAINED,Delhi Capitals top retention / captaincy candidate (INR 16.5 Cr).
+4708,Rinku Singh,India,Batter,EXCLUDED_RETAINED,Kolkata Knight Riders top domestic retention (INR 13 Cr).
+6281,Abhishek Sharma,India,Batter,EXCLUDED_RETAINED,Sunrisers Hyderabad core retention (INR 14 Cr).
+3644,Kuldeep Yadav,India,Bowler,EXCLUDED_RETAINED,Delhi Capitals core retention (INR 13.25 Cr).
+1699,Suryakumar Yadav,India,Batter,EXCLUDED_RETAINED,Mumbai Indians core retention & India T20I captain.
+4260,Heinrich Klaasen,South Africa,Batter,EXCLUDED_RETAINED,Sunrisers Hyderabad top retention (INR 23 Cr).
+4722,Rashid Khan,Afghanistan,Bowler,EXCLUDED_RETAINED,Gujarat Titans top retention (INR 18 Cr).
+781,Sunil Narine,West Indies,Bowler,EXCLUDED_RETAINED,Kolkata Knight Riders top core retention (INR 12 Cr).
+8,Mahendra Singh Dhoni,India,Batter,EXCLUDED_RETAINED,Chennai Super Kings retention under uncapped rule (INR 4 Cr).

@@ -1,0 +1,544 @@
+player_id,player_name,role,match_id,balls,runs,wickets,metric_value
+2258,Sanju Samson,Batter,20203,27,56,1,207.4
+2258,Sanju Samson,Batter,20212,11,21,1,190.9
+2258,Sanju Samson,Batter,31274,21,42,1,200.0
+2258,Sanju Samson,Batter,40695,36,62,1,172.2
+2258,Sanju Samson,Batter,40716,13,26,1,200.0
+2258,Sanju Samson,Batter,45394,11,25,1,227.3
+2258,Sanju Samson,Batter,48594,8,10,1,125.0
+2258,Sanju Samson,Batter,50135,4,9,0,225.0
+2258,Sanju Samson,Batter,50407,8,16,0,200.0
+2258,Sanju Samson,Batter,54210,3,5,0,166.7
+2258,Sanju Samson,Batter,54213,1,4,0,400.0
+813,Jos Buttler,Batter,16316,3,5,0,166.7
+813,Jos Buttler,Batter,25160,21,40,1,190.5
+813,Jos Buttler,Batter,28065,3,10,0,333.3
+813,Jos Buttler,Batter,31250,34,74,1,217.6
+813,Jos Buttler,Batter,31274,5,2,0,40.0
+813,Jos Buttler,Batter,36208,10,25,1,250.0
+813,Jos Buttler,Batter,40036,3,7,1,233.3
+813,Jos Buttler,Batter,40698,30,52,1,173.3
+813,Jos Buttler,Batter,40728,1,1,0,100.0
+813,Jos Buttler,Batter,40758,8,17,1,212.5
+813,Jos Buttler,Batter,40762,2,2,1,100.0
+813,Jos Buttler,Batter,50381,33,56,0,169.7
+813,Jos Buttler,Batter,50942,11,29,1,263.6
+7897,Namboori Tilak Varma,Batter,14107,6,18,0,300.0
+7897,Namboori Tilak Varma,Batter,14119,10,12,1,120.0
+7897,Namboori Tilak Varma,Batter,14126,15,26,0,173.3
+7897,Namboori Tilak Varma,Batter,14130,25,35,1,140.0
+7897,Namboori Tilak Varma,Batter,14163,8,14,0,175.0
+7897,Namboori Tilak Varma,Batter,20185,17,39,0,229.4
+7897,Namboori Tilak Varma,Batter,20211,4,3,1,75.0
+7897,Namboori Tilak Varma,Batter,20215,3,2,1,66.7
+7897,Namboori Tilak Varma,Batter,20222,17,28,0,164.7
+7897,Namboori Tilak Varma,Batter,20225,1,6,0,600.0
+7897,Namboori Tilak Varma,Batter,21585,1,6,0,600.0
+7897,Namboori Tilak Varma,Batter,30060,5,7,1,140.0
+7897,Namboori Tilak Varma,Batter,30063,22,49,1,222.7
+7897,Namboori Tilak Varma,Batter,31261,32,63,1,196.9
+7897,Namboori Tilak Varma,Batter,40037,2,3,0,150.0
+7897,Namboori Tilak Varma,Batter,40709,7,11,0,157.1
+7897,Namboori Tilak Varma,Batter,40714,29,56,1,193.1
+7897,Namboori Tilak Varma,Batter,42028,22,40,0,181.8
+7897,Namboori Tilak Varma,Batter,45391,1,1,0,100.0
+7897,Namboori Tilak Varma,Batter,45392,2,1,1,50.0
+7897,Namboori Tilak Varma,Batter,45394,25,53,1,212.0
+7897,Namboori Tilak Varma,Batter,45513,16,30,0,187.5
+7897,Namboori Tilak Varma,Batter,50137,10,14,1,140.0
+7897,Namboori Tilak Varma,Batter,50144,3,1,1,33.3
+7897,Namboori Tilak Varma,Batter,50341,8,15,1,187.5
+7897,Namboori Tilak Varma,Batter,50354,29,37,1,127.6
+7897,Namboori Tilak Varma,Batter,50379,23,54,0,234.8
+7897,Namboori Tilak Varma,Batter,50406,1,1,0,100.0
+7897,Namboori Tilak Varma,Batter,50407,20,35,1,175.0
+7897,Namboori Tilak Varma,Batter,54211,25,50,0,200.0
+7897,Namboori Tilak Varma,Batter,54213,32,35,0,109.4
+8101,Ashutosh Sharma,Batter,30072,16,31,0,193.8
+8101,Ashutosh Sharma,Batter,31241,15,33,0,220.0
+8101,Ashutosh Sharma,Batter,31245,16,31,2,193.8
+8101,Ashutosh Sharma,Batter,31251,23,59,0,256.5
+8101,Ashutosh Sharma,Batter,31271,6,1,1,16.7
+8101,Ashutosh Sharma,Batter,31276,5,8,1,160.0
+8101,Ashutosh Sharma,Batter,31283,2,5,0,250.0
+8101,Ashutosh Sharma,Batter,40697,28,59,0,210.7
+8101,Ashutosh Sharma,Batter,40722,10,13,1,130.0
+8101,Ashutosh Sharma,Batter,40739,3,2,1,66.7
+8101,Ashutosh Sharma,Batter,40741,6,7,1,116.7
+8101,Ashutosh Sharma,Batter,40748,26,41,1,157.7
+8101,Ashutosh Sharma,Batter,40759,16,18,1,112.5
+8101,Ashutosh Sharma,Batter,48027,6,13,1,216.7
+8101,Ashutosh Sharma,Batter,50142,10,19,1,190.0
+8101,Ashutosh Sharma,Batter,50352,10,14,1,140.0
+8101,Ashutosh Sharma,Batter,50369,5,14,1,280.0
+8101,Ashutosh Sharma,Batter,50372,18,35,1,194.4
+8101,Ashutosh Sharma,Batter,50376,8,18,0,225.0
+8101,Ashutosh Sharma,Batter,50383,2,7,0,350.0
+2984,Sikandar Raza,Batter,15609,14,30,1,214.3
+2984,Sikandar Raza,Batter,15610,20,40,1,200.0
+2984,Sikandar Raza,Batter,16425,40,55,1,137.5
+2984,Sikandar Raza,Batter,20201,6,14,1,233.3
+2984,Sikandar Raza,Batter,20218,22,36,1,163.6
+2984,Sikandar Raza,Batter,20221,5,11,0,220.0
+2984,Sikandar Raza,Batter,20239,7,11,0,157.1
+2984,Sikandar Raza,Batter,28057,4,12,0,300.0
+2984,Sikandar Raza,Batter,28957,5,12,0,240.0
+2984,Sikandar Raza,Batter,30072,11,12,1,109.1
+2984,Sikandar Raza,Batter,31241,18,27,1,150.0
+2984,Sikandar Raza,Batter,33806,2,8,0,400.0
+2984,Sikandar Raza,Batter,33807,2,0,1,0.0
+2984,Sikandar Raza,Batter,37928,7,9,1,128.6
+2984,Sikandar Raza,Batter,38627,21,29,1,138.1
+2984,Sikandar Raza,Batter,47261,5,7,1,140.0
+2984,Sikandar Raza,Batter,47262,11,19,0,172.7
+2984,Sikandar Raza,Batter,47976,15,26,0,173.3
+2984,Sikandar Raza,Batter,47977,3,12,0,400.0
+2984,Sikandar Raza,Batter,47979,2,4,1,200.0
+2984,Sikandar Raza,Batter,50508,2,0,1,0.0
+2984,Sikandar Raza,Batter,55559,13,17,1,130.8
+2984,Sikandar Raza,Batter,55560,41,86,0,209.8
+143,Dinesh Karthik,Batter,14099,1,1,0,100.0
+143,Dinesh Karthik,Batter,14106,8,20,0,250.0
+143,Dinesh Karthik,Batter,14115,14,34,1,242.9
+143,Dinesh Karthik,Batter,14120,6,17,0,283.3
+143,Dinesh Karthik,Batter,14129,3,0,1,0.0
+143,Dinesh Karthik,Batter,14132,4,6,0,150.0
+143,Dinesh Karthik,Batter,14143,8,17,1,212.5
+143,Dinesh Karthik,Batter,14154,11,11,1,100.0
+143,Dinesh Karthik,Batter,15407,16,28,0,175.0
+143,Dinesh Karthik,Batter,15409,4,9,0,225.0
+143,Dinesh Karthik,Batter,16042,7,6,1,85.7
+143,Dinesh Karthik,Batter,16062,9,17,0,188.9
+143,Dinesh Karthik,Batter,16063,7,4,1,57.1
+143,Dinesh Karthik,Batter,17627,10,14,0,140.0
+143,Dinesh Karthik,Batter,20189,8,9,1,112.5
+143,Dinesh Karthik,Batter,20204,11,26,1,236.4
+143,Dinesh Karthik,Batter,20216,16,21,2,131.2
+143,Dinesh Karthik,Batter,20223,9,15,0,166.7
+143,Dinesh Karthik,Batter,30056,7,20,0,285.7
+143,Dinesh Karthik,Batter,30061,9,24,0,266.7
+143,Dinesh Karthik,Batter,30070,8,4,1,50.0
+143,Dinesh Karthik,Batter,31243,8,30,0,375.0
+143,Dinesh Karthik,Batter,31248,30,69,0,230.0
+143,Dinesh Karthik,Batter,31254,14,19,1,135.7
+1077,David Miller,Batter,14097,15,27,0,180.0
+1077,David Miller,Batter,14109,4,6,1,150.0
+1077,David Miller,Batter,14122,35,73,0,208.6
+1077,David Miller,Batter,14133,4,3,1,75.0
+1077,David Miller,Batter,14136,13,25,0,192.3
+1077,David Miller,Batter,14145,7,10,0,142.9
+1077,David Miller,Batter,14151,2,7,0,350.0
+1077,David Miller,Batter,15187,11,28,0,254.5
+1077,David Miller,Batter,15406,22,52,0,236.4
+1077,David Miller,Batter,15408,5,3,1,60.0
+1077,David Miller,Batter,15409,6,9,1,150.0
+1077,David Miller,Batter,16315,12,8,1,66.7
+1077,David Miller,Batter,17626,41,83,0,202.4
+1077,David Miller,Batter,19959,3,10,0,333.3
+1077,David Miller,Batter,20187,2,7,0,350.0
+1077,David Miller,Batter,20198,1,1,0,100.0
+1077,David Miller,Batter,20210,9,6,1,66.7
+1077,David Miller,Batter,20219,3,11,0,366.7
+1077,David Miller,Batter,20237,24,41,1,170.8
+1077,David Miller,Batter,21583,2,1,1,50.0
+1077,David Miller,Batter,28047,23,35,1,152.2
+1077,David Miller,Batter,30062,16,21,1,131.2
+1077,David Miller,Batter,31258,23,55,1,239.1
+1077,David Miller,Batter,37940,10,3,1,30.0
+1077,David Miller,Batter,37942,18,18,1,100.0
+1077,David Miller,Batter,37943,27,36,1,133.3
+1077,David Miller,Batter,40697,6,14,0,233.3
+1077,David Miller,Batter,40738,16,24,1,150.0
+1077,David Miller,Batter,40747,8,11,1,137.5
+1077,David Miller,Batter,42031,9,15,1,166.7
+1077,David Miller,Batter,50138,9,29,1,322.2
+1077,David Miller,Batter,50142,9,15,1,166.7
+1077,David Miller,Batter,50347,9,18,0,200.0
+1077,David Miller,Batter,50352,1,0,1,0.0
+1077,David Miller,Batter,50360,18,19,1,105.6
+1077,David Miller,Batter,50376,28,51,1,182.1
+1077,David Miller,Batter,50383,5,9,0,180.0
+1699,Suryakumar Yadav,Batter,13524,2,7,0,350.0
+1699,Suryakumar Yadav,Batter,14107,1,1,0,100.0
+1699,Suryakumar Yadav,Batter,14111,34,67,0,197.1
+1699,Suryakumar Yadav,Batter,14116,14,23,1,164.3
+1699,Suryakumar Yadav,Batter,14119,11,15,1,136.4
+1699,Suryakumar Yadav,Batter,14130,4,5,1,125.0
+1699,Suryakumar Yadav,Batter,16042,55,117,1,212.7
+1699,Suryakumar Yadav,Batter,17627,3,7,1,233.3
+1699,Suryakumar Yadav,Batter,19557,33,51,1,154.5
+1699,Suryakumar Yadav,Batter,19715,2,7,0,350.0
+1699,Suryakumar Yadav,Batter,19716,1,4,0,400.0
+1699,Suryakumar Yadav,Batter,20211,26,57,1,219.2
+1699,Suryakumar Yadav,Batter,20215,12,23,1,191.7
+1699,Suryakumar Yadav,Batter,20222,15,29,1,193.3
+1699,Suryakumar Yadav,Batter,20225,16,32,0,200.0
+1699,Suryakumar Yadav,Batter,21585,15,31,1,206.7
+1699,Suryakumar Yadav,Batter,24354,5,6,1,120.0
+1699,Suryakumar Yadav,Batter,31261,10,24,1,240.0
+1699,Suryakumar Yadav,Batter,31269,18,37,1,205.6
+1699,Suryakumar Yadav,Batter,40702,8,11,1,137.5
+1699,Suryakumar Yadav,Batter,40709,5,6,1,120.0
+1699,Suryakumar Yadav,Batter,40714,16,22,1,137.5
+1699,Suryakumar Yadav,Batter,40759,7,12,0,171.4
+1699,Suryakumar Yadav,Batter,48592,3,1,0,33.3
+1699,Suryakumar Yadav,Batter,48594,7,8,1,114.3
+1699,Suryakumar Yadav,Batter,50137,1,6,0,600.0
+1699,Suryakumar Yadav,Batter,50144,18,28,1,155.6
+1699,Suryakumar Yadav,Batter,50354,30,36,1,120.0
+1699,Suryakumar Yadav,Batter,50390,28,35,1,125.0
+4812,Harry Tector,Batter,15796,16,28,1,175.0
+4812,Harry Tector,Batter,16260,3,8,1,266.7
+4812,Harry Tector,Batter,16647,20,24,1,120.0
+4812,Harry Tector,Batter,16750,5,13,0,260.0
+4812,Harry Tector,Batter,21070,12,19,1,158.3
+4812,Harry Tector,Batter,21071,16,22,1,137.5
+4812,Harry Tector,Batter,24823,1,4,0,400.0
+4812,Harry Tector,Batter,28057,1,0,1,0.0
+4812,Harry Tector,Batter,30728,25,48,0,192.0
+4812,Harry Tector,Batter,32292,6,12,0,200.0
+4812,Harry Tector,Batter,41504,24,38,1,158.3
+4812,Harry Tector,Batter,50341,10,14,1,140.0
+3782,M Shahrukh Khan,Batter,14096,9,9,0,100.0
+3782,M Shahrukh Khan,Batter,14125,3,2,1,66.7
+3782,M Shahrukh Khan,Batter,20198,9,22,1,244.4
+3782,M Shahrukh Khan,Batter,20201,4,14,0,350.0
+3782,M Shahrukh Khan,Batter,20207,1,6,0,600.0
+3782,M Shahrukh Khan,Batter,20218,1,1,0,100.0
+3782,M Shahrukh Khan,Batter,20221,3,2,0,66.7
+3782,M Shahrukh Khan,Batter,20233,8,21,0,262.5
+3782,M Shahrukh Khan,Batter,20239,4,2,1,50.0
+3782,M Shahrukh Khan,Batter,20244,3,6,1,200.0
+3782,M Shahrukh Khan,Batter,20246,6,12,0,200.0
+3782,M Shahrukh Khan,Batter,31242,8,14,1,175.0
+3782,M Shahrukh Khan,Batter,31249,1,0,0,0.0
+3782,M Shahrukh Khan,Batter,31258,5,8,1,160.0
+3782,M Shahrukh Khan,Batter,31270,1,4,0,400.0
+3782,M Shahrukh Khan,Batter,40698,1,6,0,600.0
+3782,M Shahrukh Khan,Batter,40749,3,5,1,166.7
+3782,M Shahrukh Khan,Batter,40758,27,55,1,203.7
+3782,M Shahrukh Khan,Batter,40762,15,19,1,126.7
+3782,M Shahrukh Khan,Batter,40765,7,13,1,185.7
+3782,M Shahrukh Khan,Batter,50133,3,11,0,366.7
+3782,M Shahrukh Khan,Batter,50351,13,17,1,130.8
+7364,Haris Rauf,Bowler,16654,24,32,0,8.0
+7364,Haris Rauf,Bowler,16660,4,2,0,3.0
+7364,Haris Rauf,Bowler,16664,6,11,0,11.0
+7364,Haris Rauf,Bowler,17553,24,23,1,5.75
+7364,Haris Rauf,Bowler,17554,12,17,1,8.5
+7364,Haris Rauf,Bowler,17555,12,18,0,9.0
+7364,Haris Rauf,Bowler,17556,24,32,3,8.0
+7364,Haris Rauf,Bowler,17557,12,20,1,10.0
+7364,Haris Rauf,Bowler,17559,12,10,0,5.0
+7364,Haris Rauf,Bowler,17737,12,13,1,6.5
+7364,Haris Rauf,Bowler,21403,6,1,0,1.0
+7364,Haris Rauf,Bowler,21404,7,9,1,7.71
+7364,Haris Rauf,Bowler,21407,24,37,0,9.25
+7364,Haris Rauf,Bowler,28963,12,16,2,8.0
+7364,Haris Rauf,Bowler,28964,12,7,3,3.5
+7364,Haris Rauf,Bowler,28965,10,15,1,9.0
+7364,Haris Rauf,Bowler,28966,19,29,0,9.16
+7364,Haris Rauf,Bowler,32611,6,7,1,7.0
+7364,Haris Rauf,Bowler,32613,7,14,1,12.0
+7364,Haris Rauf,Bowler,37355,6,3,2,3.0
+7364,Haris Rauf,Bowler,37926,12,12,1,6.0
+7364,Haris Rauf,Bowler,38796,21,45,0,12.86
+7364,Haris Rauf,Bowler,39809,18,19,2,6.33
+7364,Haris Rauf,Bowler,39810,12,11,2,5.5
+7364,Haris Rauf,Bowler,39811,24,22,3,5.5
+7364,Haris Rauf,Bowler,41510,12,17,0,8.5
+7364,Haris Rauf,Bowler,41512,24,32,1,8.0
+7364,Haris Rauf,Bowler,42742,6,5,0,5.0
+7364,Haris Rauf,Bowler,42743,6,7,1,7.0
+7364,Haris Rauf,Bowler,45504,11,10,1,5.45
+7364,Haris Rauf,Bowler,45508,18,20,2,6.67
+7364,Haris Rauf,Bowler,45511,9,17,1,11.33
+7364,Haris Rauf,Bowler,45513,22,49,0,13.36
+7364,Haris Rauf,Bowler,45851,12,12,2,6.0
+2490,Mohammad Nawaz,Bowler,16654,22,33,3,9.0
+2490,Mohammad Nawaz,Bowler,16660,1,0,0,0.0
+2490,Mohammad Nawaz,Bowler,16664,12,9,0,4.5
+2490,Mohammad Nawaz,Bowler,17553,24,20,0,5.0
+2490,Mohammad Nawaz,Bowler,17556,14,14,3,6.0
+2490,Mohammad Nawaz,Bowler,17557,12,9,1,4.5
+2490,Mohammad Nawaz,Bowler,17558,22,33,0,9.0
+2490,Mohammad Nawaz,Bowler,17737,24,25,2,6.25
+2490,Mohammad Nawaz,Bowler,17740,12,17,0,8.5
+2490,Mohammad Nawaz,Bowler,20879,12,8,0,4.0
+2490,Mohammad Nawaz,Bowler,20880,1,1,0,6.0
+2490,Mohammad Nawaz,Bowler,28965,12,22,1,11.0
+2490,Mohammad Nawaz,Bowler,28966,24,41,0,10.25
+2490,Mohammad Nawaz,Bowler,28967,12,7,1,3.5
+2490,Mohammad Nawaz,Bowler,41510,16,16,0,6.0
+2490,Mohammad Nawaz,Bowler,41511,12,8,1,4.0
+2490,Mohammad Nawaz,Bowler,41512,18,32,1,10.67
+2490,Mohammad Nawaz,Bowler,44265,6,8,0,8.0
+2490,Mohammad Nawaz,Bowler,45498,8,8,1,6.0
+2490,Mohammad Nawaz,Bowler,45500,12,14,0,7.0
+2490,Mohammad Nawaz,Bowler,45504,18,27,0,9.0
+2490,Mohammad Nawaz,Bowler,45511,18,14,1,4.67
+2490,Mohammad Nawaz,Bowler,45513,6,6,0,6.0
+2490,Mohammad Nawaz,Bowler,45851,18,20,1,6.67
+2490,Mohammad Nawaz,Bowler,45852,12,13,1,6.5
+2490,Mohammad Nawaz,Bowler,45855,17,23,1,8.12
+2490,Mohammad Nawaz,Bowler,45857,6,1,2,1.0
+2490,Mohammad Nawaz,Bowler,46740,7,4,1,3.43
+2490,Mohammad Nawaz,Bowler,47979,7,7,1,6.0
+2490,Mohammad Nawaz,Bowler,48915,8,8,1,6.0
+2490,Mohammad Nawaz,Bowler,48916,5,5,1,6.0
+2490,Mohammad Nawaz,Bowler,48917,6,3,1,3.0
+22920,Jacob Duffy,Bowler,16258,12,14,1,7.0
+22920,Jacob Duffy,Bowler,16259,17,20,2,7.06
+22920,Jacob Duffy,Bowler,19715,12,10,1,5.0
+22920,Jacob Duffy,Bowler,31709,4,4,1,6.0
+22920,Jacob Duffy,Bowler,31710,18,30,0,10.0
+22920,Jacob Duffy,Bowler,37894,18,27,0,9.0
+22920,Jacob Duffy,Bowler,38632,24,20,3,5.0
+22920,Jacob Duffy,Bowler,38633,14,5,3,2.14
+22920,Jacob Duffy,Bowler,38634,12,20,0,10.0
+22920,Jacob Duffy,Bowler,39810,18,37,1,12.33
+22920,Jacob Duffy,Bowler,39811,4,1,1,1.5
+22920,Jacob Duffy,Bowler,46310,18,29,0,9.67
+22920,Jacob Duffy,Bowler,46312,24,24,2,6.0
+22920,Jacob Duffy,Bowler,46748,12,20,0,10.0
+22920,Jacob Duffy,Bowler,47966,8,0,1,0.0
+22920,Jacob Duffy,Bowler,47967,16,16,3,6.0
+22920,Jacob Duffy,Bowler,48591,12,9,1,4.5
+22920,Jacob Duffy,Bowler,48592,20,33,1,9.9
+22920,Jacob Duffy,Bowler,48593,3,11,0,22.0
+22920,Jacob Duffy,Bowler,48594,5,1,1,1.2
+22920,Jacob Duffy,Bowler,48595,12,32,1,16.0
+22920,Jacob Duffy,Bowler,54211,16,18,1,6.75
+22920,Jacob Duffy,Bowler,54212,6,20,0,20.0
+22920,Jacob Duffy,Bowler,54214,6,11,0,11.0
+2876,Axar Patel,Bowler,14108,12,11,0,5.5
+2876,Axar Patel,Bowler,14127,5,5,0,6.0
+2876,Axar Patel,Bowler,14158,3,1,1,2.0
+2876,Axar Patel,Bowler,14163,18,26,0,8.67
+2876,Axar Patel,Bowler,15406,8,7,1,5.25
+2876,Axar Patel,Bowler,15407,6,19,0,19.0
+2876,Axar Patel,Bowler,15408,12,16,1,8.0
+2876,Axar Patel,Bowler,15409,12,7,0,3.5
+2876,Axar Patel,Bowler,15796,3,4,0,8.0
+2876,Axar Patel,Bowler,16065,12,25,1,12.5
+2876,Axar Patel,Bowler,16066,18,14,3,4.67
+2876,Axar Patel,Bowler,17394,22,16,3,4.36
+2876,Axar Patel,Bowler,17396,4,8,1,12.0
+2876,Axar Patel,Bowler,17626,6,20,0,20.0
+2876,Axar Patel,Bowler,17627,1,0,0,0.0
+2876,Axar Patel,Bowler,19556,3,2,0,4.0
+2876,Axar Patel,Bowler,20191,7,14,0,12.0
+2876,Axar Patel,Bowler,20196,24,19,0,4.75
+2876,Axar Patel,Bowler,20214,24,21,2,5.25
+2876,Axar Patel,Bowler,20224,12,12,0,6.0
+2876,Axar Patel,Bowler,24354,6,8,0,8.0
+2876,Axar Patel,Bowler,27062,11,16,0,8.73
+2876,Axar Patel,Bowler,27063,24,16,3,4.0
+2876,Axar Patel,Bowler,27064,24,14,1,3.5
+2876,Axar Patel,Bowler,30057,24,25,0,6.25
+2876,Axar Patel,Bowler,30068,2,2,0,6.0
+2876,Axar Patel,Bowler,30071,6,18,0,18.0
+2876,Axar Patel,Bowler,30075,11,13,1,7.09
+2876,Axar Patel,Bowler,31253,7,5,1,4.29
+2876,Axar Patel,Bowler,31258,3,2,0,4.0
+2876,Axar Patel,Bowler,31265,12,16,0,8.0
+2876,Axar Patel,Bowler,31274,6,10,1,10.0
+2876,Axar Patel,Bowler,31282,6,20,1,20.0
+2876,Axar Patel,Bowler,34427,22,29,2,7.91
+2876,Axar Patel,Bowler,37942,2,1,0,3.0
+2876,Axar Patel,Bowler,40039,18,25,1,8.33
+2876,Axar Patel,Bowler,40697,6,6,0,6.0
+2876,Axar Patel,Bowler,40717,6,8,0,8.0
+2876,Axar Patel,Bowler,40725,18,23,1,7.67
+2876,Axar Patel,Bowler,40728,12,18,0,9.0
+2876,Axar Patel,Bowler,40739,24,18,2,4.5
+2876,Axar Patel,Bowler,40741,4,2,2,3.0
+2876,Axar Patel,Bowler,40751,8,17,0,12.75
+2876,Axar Patel,Bowler,40755,18,35,0,11.67
+2876,Axar Patel,Bowler,41978,24,20,2,5.0
+2876,Axar Patel,Bowler,42027,6,5,1,5.0
+2876,Axar Patel,Bowler,42028,6,4,1,4.0
+2876,Axar Patel,Bowler,45391,23,19,1,4.96
+2876,Axar Patel,Bowler,45392,6,18,1,18.0
+2876,Axar Patel,Bowler,45394,15,33,0,13.2
+2876,Axar Patel,Bowler,45506,6,4,0,4.0
+2876,Axar Patel,Bowler,45510,18,22,1,7.33
+2876,Axar Patel,Bowler,45512,18,32,0,10.67
+2876,Axar Patel,Bowler,50138,6,9,0,9.0
+2876,Axar Patel,Bowler,50340,10,5,2,3.0
+2876,Axar Patel,Bowler,50347,6,2,1,2.0
+2876,Axar Patel,Bowler,50352,3,7,1,14.0
+2876,Axar Patel,Bowler,50356,17,23,1,8.12
+2876,Axar Patel,Bowler,50369,24,20,1,5.0
+2876,Axar Patel,Bowler,50372,10,18,0,10.8
+2876,Axar Patel,Bowler,50383,12,13,0,6.5
+2876,Axar Patel,Bowler,50391,18,34,0,11.33
+2876,Axar Patel,Bowler,50405,3,12,0,24.0
+2876,Axar Patel,Bowler,50407,21,38,1,10.86
+2876,Axar Patel,Bowler,54410,3,1,1,2.0
+2876,Axar Patel,Bowler,54711,12,6,0,3.0
+5979,Abrar Ahmed,Bowler,31709,24,31,0,7.75
+5979,Abrar Ahmed,Bowler,37926,18,27,2,9.0
+5979,Abrar Ahmed,Bowler,38796,22,26,0,7.09
+5979,Abrar Ahmed,Bowler,39811,11,28,1,15.27
+5979,Abrar Ahmed,Bowler,42742,11,20,0,10.91
+5979,Abrar Ahmed,Bowler,42743,3,2,1,4.0
+5979,Abrar Ahmed,Bowler,44265,6,8,0,8.0
+5979,Abrar Ahmed,Bowler,45498,6,5,0,5.0
+5979,Abrar Ahmed,Bowler,45500,6,5,0,5.0
+5979,Abrar Ahmed,Bowler,45504,24,13,2,3.25
+5979,Abrar Ahmed,Bowler,45508,23,40,1,10.43
+5979,Abrar Ahmed,Bowler,45511,6,2,0,2.0
+5979,Abrar Ahmed,Bowler,45513,24,28,1,7.0
+5979,Abrar Ahmed,Bowler,45855,17,5,3,1.76
+5979,Abrar Ahmed,Bowler,45857,12,13,1,6.5
+5979,Abrar Ahmed,Bowler,46740,12,17,1,8.5
+5979,Abrar Ahmed,Bowler,47981,6,9,1,9.0
+5979,Abrar Ahmed,Bowler,48915,3,0,1,0.0
+5979,Abrar Ahmed,Bowler,48916,12,7,2,3.5
+5979,Abrar Ahmed,Bowler,48917,4,5,0,7.5
+4101,Mitchell Santner,Bowler,14094,12,12,1,6.0
+4101,Mitchell Santner,Bowler,14140,14,23,1,9.86
+4101,Mitchell Santner,Bowler,14156,6,5,0,5.0
+4101,Mitchell Santner,Bowler,14162,13,12,1,5.54
+4101,Mitchell Santner,Bowler,16258,8,7,1,5.25
+4101,Mitchell Santner,Bowler,16259,6,11,0,11.0
+4101,Mitchell Santner,Bowler,16666,24,22,1,5.5
+4101,Mitchell Santner,Bowler,16683,11,6,2,3.27
+4101,Mitchell Santner,Bowler,16684,2,0,1,0.0
+4101,Mitchell Santner,Bowler,16685,19,24,0,7.58
+4101,Mitchell Santner,Bowler,19715,18,6,1,2.0
+4101,Mitchell Santner,Bowler,19716,6,5,0,5.0
+4101,Mitchell Santner,Bowler,20181,24,32,0,8.0
+4101,Mitchell Santner,Bowler,20186,12,13,1,6.5
+4101,Mitchell Santner,Bowler,24792,23,22,2,5.74
+4101,Mitchell Santner,Bowler,24793,15,20,1,8.0
+4101,Mitchell Santner,Bowler,24794,12,6,1,3.0
+4101,Mitchell Santner,Bowler,25158,6,11,0,11.0
+4101,Mitchell Santner,Bowler,25160,3,1,0,2.0
+4101,Mitchell Santner,Bowler,25161,2,1,1,3.0
+4101,Mitchell Santner,Bowler,28332,12,7,1,3.5
+4101,Mitchell Santner,Bowler,28964,12,19,0,9.5
+4101,Mitchell Santner,Bowler,29982,22,35,2,9.55
+4101,Mitchell Santner,Bowler,29983,4,7,0,10.5
+4101,Mitchell Santner,Bowler,31271,18,10,1,3.33
+4101,Mitchell Santner,Bowler,31277,6,17,0,17.0
+4101,Mitchell Santner,Bowler,37894,20,23,1,6.9
+4101,Mitchell Santner,Bowler,37895,6,4,0,4.0
+4101,Mitchell Santner,Bowler,38632,24,26,0,6.5
+4101,Mitchell Santner,Bowler,38633,24,21,2,5.25
+4101,Mitchell Santner,Bowler,40696,12,20,0,10.0
+4101,Mitchell Santner,Bowler,40722,22,30,1,8.18
+4101,Mitchell Santner,Bowler,40754,24,38,2,9.5
+4101,Mitchell Santner,Bowler,40759,12,7,1,3.5
+4101,Mitchell Santner,Bowler,40766,12,15,0,7.5
+4101,Mitchell Santner,Bowler,46748,12,15,0,7.5
+4101,Mitchell Santner,Bowler,48591,9,15,1,10.0
+4101,Mitchell Santner,Bowler,48592,12,26,0,13.0
+4101,Mitchell Santner,Bowler,48595,12,35,1,17.5
+4101,Mitchell Santner,Bowler,49736,12,2,0,1.0
+4101,Mitchell Santner,Bowler,49737,12,15,1,7.5
+4101,Mitchell Santner,Bowler,50132,18,22,1,7.33
+4101,Mitchell Santner,Bowler,50144,18,32,1,10.67
+4101,Mitchell Santner,Bowler,50351,2,1,1,3.0
+4101,Mitchell Santner,Bowler,50354,6,9,1,9.0
+4101,Mitchell Santner,Bowler,54210,21,32,2,9.14
+4101,Mitchell Santner,Bowler,54211,8,5,1,3.75
+4101,Mitchell Santner,Bowler,54212,6,7,0,7.0
+1596,Moeen Ali,Bowler,13511,6,7,0,7.0
+1596,Moeen Ali,Bowler,13512,6,3,1,3.0
+1596,Moeen Ali,Bowler,13514,19,21,2,6.63
+1596,Moeen Ali,Bowler,14100,6,14,0,14.0
+1596,Moeen Ali,Bowler,14110,6,10,0,10.0
+1596,Moeen Ali,Bowler,14115,6,1,0,1.0
+1596,Moeen Ali,Bowler,14149,6,2,1,2.0
+1596,Moeen Ali,Bowler,14153,11,17,1,9.27
+1596,Moeen Ali,Bowler,14156,6,6,1,6.0
+1596,Moeen Ali,Bowler,14162,24,21,1,5.25
+1596,Moeen Ali,Bowler,17554,5,15,0,18.0
+1596,Moeen Ali,Bowler,17763,6,11,0,11.0
+1596,Moeen Ali,Bowler,20133,18,19,1,6.33
+1596,Moeen Ali,Bowler,20134,12,17,1,8.5
+1596,Moeen Ali,Bowler,20186,18,18,3,6.0
+1596,Moeen Ali,Bowler,20204,6,13,1,13.0
+1596,Moeen Ali,Bowler,20221,6,10,0,10.0
+1596,Moeen Ali,Bowler,20235,18,13,0,4.33
+1596,Moeen Ali,Bowler,20241,24,31,0,7.75
+1596,Moeen Ali,Bowler,25161,14,23,0,9.86
+1596,Moeen Ali,Bowler,28067,6,9,0,9.0
+1596,Moeen Ali,Bowler,30073,18,22,2,7.33
+1596,Moeen Ali,Bowler,31252,6,5,0,5.0
+1596,Moeen Ali,Bowler,31267,12,22,0,11.0
+1596,Moeen Ali,Bowler,32611,24,26,2,6.5
+1596,Moeen Ali,Bowler,40746,13,16,2,7.38
+1596,Moeen Ali,Bowler,40750,12,23,1,11.5
+5379,Mark Adair,Bowler,15796,12,26,2,13.0
+5379,Mark Adair,Bowler,16259,4,3,0,4.5
+5379,Mark Adair,Bowler,16260,18,22,0,7.33
+5379,Mark Adair,Bowler,16646,12,34,0,17.0
+5379,Mark Adair,Bowler,16647,2,4,1,12.0
+5379,Mark Adair,Bowler,16752,10,19,1,11.4
+5379,Mark Adair,Bowler,16753,1,0,0,0.0
+5379,Mark Adair,Bowler,19690,6,5,1,5.0
+5379,Mark Adair,Bowler,19692,18,13,1,4.33
+5379,Mark Adair,Bowler,21070,14,33,1,14.14
+5379,Mark Adair,Bowler,21071,17,31,1,10.94
+5379,Mark Adair,Bowler,24822,3,6,0,12.0
+5379,Mark Adair,Bowler,24823,4,7,1,10.5
+5379,Mark Adair,Bowler,28057,24,35,2,8.75
+5379,Mark Adair,Bowler,30728,12,17,1,8.5
+5379,Mark Adair,Bowler,32290,1,0,0,0.0
+5379,Mark Adair,Bowler,32291,23,40,1,10.43
+5379,Mark Adair,Bowler,32292,24,25,3,6.25
+5379,Mark Adair,Bowler,32621,12,11,0,5.5
+5379,Mark Adair,Bowler,32625,24,21,2,5.25
+5379,Mark Adair,Bowler,37014,22,30,1,8.18
+5379,Mark Adair,Bowler,37015,21,25,3,7.14
+5379,Mark Adair,Bowler,41504,12,24,1,12.0
+5379,Mark Adair,Bowler,47241,12,3,2,1.5
+5379,Mark Adair,Bowler,47242,24,36,2,9.0
+5379,Mark Adair,Bowler,48466,12,16,0,8.0
+5379,Mark Adair,Bowler,48467,12,12,0,6.0
+2984,Sikandar Raza,Bowler,15609,23,16,0,4.17
+2984,Sikandar Raza,Bowler,16424,6,6,0,6.0
+2984,Sikandar Raza,Bowler,16425,12,14,0,7.0
+2984,Sikandar Raza,Bowler,16426,22,20,0,5.45
+2984,Sikandar Raza,Bowler,20182,14,19,1,8.14
+2984,Sikandar Raza,Bowler,20188,6,5,0,5.0
+2984,Sikandar Raza,Bowler,20218,1,1,0,6.0
+2984,Sikandar Raza,Bowler,28957,13,5,3,2.31
+2984,Sikandar Raza,Bowler,32132,12,18,0,9.0
+2984,Sikandar Raza,Bowler,32133,24,28,0,7.0
+2984,Sikandar Raza,Bowler,33803,8,5,2,3.75
+2984,Sikandar Raza,Bowler,33805,4,8,0,12.0
+2984,Sikandar Raza,Bowler,38628,24,18,2,4.5
+2984,Sikandar Raza,Bowler,45903,24,26,1,6.5
+2984,Sikandar Raza,Bowler,45905,24,28,1,7.0
+2984,Sikandar Raza,Bowler,47261,12,9,0,4.5
+2984,Sikandar Raza,Bowler,47262,14,9,0,3.86
+2984,Sikandar Raza,Bowler,47976,22,23,0,6.27
+2984,Sikandar Raza,Bowler,47977,6,3,0,3.0
+2984,Sikandar Raza,Bowler,47979,12,20,2,10.0
+2984,Sikandar Raza,Bowler,47980,12,10,0,5.0
+2984,Sikandar Raza,Bowler,50509,6,7,0,7.0
+2984,Sikandar Raza,Bowler,51383,15,23,0,9.2
+2984,Sikandar Raza,Bowler,51385,24,31,2,7.75
+2984,Sikandar Raza,Bowler,55560,6,15,1,15.0
+7325,Harpreet Brar,Bowler,14154,13,17,0,7.85
+7325,Harpreet Brar,Bowler,20188,12,15,0,7.5
+7325,Harpreet Brar,Bowler,20194,19,26,0,8.21
+7325,Harpreet Brar,Bowler,20198,17,12,1,4.24
+7325,Harpreet Brar,Bowler,20207,4,1,2,1.5
+7325,Harpreet Brar,Bowler,20211,6,8,0,8.0
+7325,Harpreet Brar,Bowler,20233,6,4,1,4.0
+7325,Harpreet Brar,Bowler,20239,19,26,4,8.21
+7325,Harpreet Brar,Bowler,20244,18,37,0,12.33
+7325,Harpreet Brar,Bowler,30061,23,12,2,3.13
+7325,Harpreet Brar,Bowler,31245,18,22,0,7.33
+7325,Harpreet Brar,Bowler,31255,24,35,0,8.75
+7325,Harpreet Brar,Bowler,31260,12,21,0,10.5
+7325,Harpreet Brar,Bowler,31287,18,31,1,10.33
+7325,Harpreet Brar,Bowler,40730,24,27,1,6.75
+7325,Harpreet Brar,Bowler,40760,21,20,3,5.71
+7325,Harpreet Brar,Bowler,43057,24,40,2,10.0
+7325,Harpreet Brar,Bowler,50361,21,18,0,5.14

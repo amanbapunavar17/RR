@@ -1,0 +1,35 @@
+--- PAGE 1 ---
+Salary Salary Salary Salary Salary
+Akash Madhwal 30 Abhishek Porel 400 * Connor Esterhuizen 75 Ajinkya Rahane 150 * Anrich Nortje 200
+Aman Khan 40 Ajay Mandal 30 * Luke Wood 75 Akash Deep 100 Avesh Khan 975
+* Dian Forrester 75 * Dushmantha Chameera 75 Ishant Sharma 75 * Blessing Muzarabani 150 * George Linde 100
+Kuldip Yadav 30 Karun Nair 50 Kulwant Khejroliya 30 Daksh Kamra 30 Himmat Singh 30
+Macneil Noronha 30 * Mitchell Starc 1175 Prithviraj Yarra 30 Luvnith Sisodia 30 * Matthew Breetzke 75
+* Matt Henry 200 Nitish Rana 420 Shahrukh Khan 400 * Matheesha Pathirana 1800 Naman Tiwari 100
+* Matthew Short 150 * Pathum Nissanka 400 * Mustafizur Rahman 920 * Wanindu Hasaranga 200
+MS Dhoni 400 * Rehan Ahmed 75 Navdeep Saini 75
+Prashant Veer 1420 Sahil Parakh 30 * Rachin Ravindra 200
+* Spencer Johnson 150 Rahul Tripathi 75
+* Zak Foulkes 75 Tejasvi Singh 300
+Umran Malik 75
+No of Players 11 No of Players 9 No of Players 6 No of Players 12 No of Players 7
+No of Overseas Players 5 No of Overseas Players 4 No of Overseas Players 2 No of Overseas Players 4 No of Overseas Players 4
+Salary Salary Salary Salary Salary
+* AM Ghazanfar 480 * Lockie Ferguson 200 * Adam Milne 240 * Jacob Bethell 260 Amit Kumar 30
+Atharva Ankolekar 30 * Mitch Owen 300 Emanjot Chahal 30 Mangesh Yadav 520 * David Payne 150
+Danish Malewar 30 Nehal Wadhera 420 Kuldeep Sen 75 * Richard Gleeson 160 * Dilshan Madushanka 75
+Deepak Chahar 925 Pravin Dubey 30 * Kwena Maphaka 150 Satvik Deswal 30 * Gerald Coetzee 200
+* Keshav Maharaj 75 Pyla Avinash 30 Ravi Singh 95 Swapnil Singh 50 Jaydev Unadkat 100
+Krish Bhagat 30 Vishal Nishad 30 * Shimron Hetmyer 1100 Vihaan Malhotra 30 * Kamindu Mendis 75
+Mahipal Lamror 50 Tushar Deshpande 650 Onkar Tarmale 30
+Mayank Markande 30 Vignesh Puthur 30 R.S.Ambrish 30
+Mayank Rawat 30 Yudhvir Charak 35 Shivam Mavi 75
+Mohammad Izhar 30 * Travis Head 1400
+Robin Minz 65
+Ruchit Ahir 30
+* Trent Boult 1250
+No of Players 13 No of Players 6 No of Players 9 No of Players 6 No of Players 10
+No of Overseas Players 3 No of Overseas Players 2 No of Overseas Players 3 No of Overseas Players 2 No of Overseas Players 5
+TATA IPL 2027 - Released Player List
+Player Player Player Player Player
+Player Player Player Player Player

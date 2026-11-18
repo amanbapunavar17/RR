@@ -1,0 +1,8 @@
+player_name,player_id,role,expected_status,priority
+Shreyas Iyer,3647,Batter / Captain,Entering Mega Auction,High Marquee Target
+Rishabh Pant,3780,Wicketkeeper-Batter,Entering Mega Auction,Marquee Target
+Krunal Pandya,4219,All-Rounder,Available in Auction,Prime Domestic Target
+Prasidh Krishna,4489,Fast Bowler,Available in Auction,Prime Domestic Target
+Liam Livingstone,4391,All-Rounder,Available in Auction,Overseas Power Target
+Mitchell Santner,4101,Spin All-Rounder,Available in Auction,Overseas Value Target
+Ravichandran Ashwin,305,Off-Spinner,Available in Auction,Domestic Value Target

@@ -1,0 +1,90 @@
+name,db_name,player_id,is_overseas,salary_lakhs,franchise
+Akash Madhwal,Akash Madhwal,8177,False,30,Chennai Super Kings
+Aman Khan,Aman Khan,20894,False,40,Chennai Super Kings
+Dian Forrester,Dian Forrester,46929,True,75,Chennai Super Kings
+Kuldip Yadav,Kuldip Yadav,20693,False,30,Chennai Super Kings
+Macneil Noronha,Macneil Noronha,33095,False,30,Chennai Super Kings
+Matt Henry,Matt Henry,3174,True,200,Chennai Super Kings
+Matthew Short,Matthew Short,3727,True,150,Chennai Super Kings
+MS Dhoni,Mahendra Singh Dhoni,8,False,400,Chennai Super Kings
+Prashant Veer,Prashant Veer,45966,False,1420,Chennai Super Kings
+Spencer Johnson,Spencer Johnson,6354,True,150,Chennai Super Kings
+Zak Foulkes,Zakary Foulkes,29066,True,75,Chennai Super Kings
+Abhishek Porel,Abishek Porel,19714,False,400,Delhi Capitals
+Ajay Mandal,Ajay Mandal,7553,False,30,Delhi Capitals
+Dushmantha Chameera,Dushmantha Chameera,2399,True,75,Delhi Capitals
+Karun Nair,Karun Nair,930,False,50,Delhi Capitals
+Mitchell Starc,Mitchell Starc,829,True,1175,Delhi Capitals
+Nitish Rana,Nitish Rana,4246,False,420,Delhi Capitals
+Pathum Nissanka,Pathum Nissanka,6931,True,400,Delhi Capitals
+Rehan Ahmed,Rehan Ahmed,24475,True,75,Delhi Capitals
+Sahil Parakh,Sahil Parakh,48575,False,30,Delhi Capitals
+Connor Esterhuizen,Connor Esterhuizen,28970,True,75,Gujarat Titans
+Luke Wood,Luke Wood,3660,True,75,Gujarat Titans
+Ishant Sharma,Ishant Sharma,28,False,75,Gujarat Titans
+Kulwant Khejroliya,Kulwant Khejroliya,6162,False,30,Gujarat Titans
+Prithviraj Yarra,Yarra Prithviraj,6351,False,30,Gujarat Titans
+Shahrukh Khan,M Shahrukh Khan,3782,False,400,Gujarat Titans
+Ajinkya Rahane,Ajinkya Rahane,167,False,150,Kolkata Knight Riders
+Akash Deep,Akash Deep,7473,False,100,Kolkata Knight Riders
+Blessing Muzarabani,Blessing Muzarabani,6523,True,150,Kolkata Knight Riders
+Daksh Kamra,Daksh Kamra,71016,False,30,Kolkata Knight Riders
+Luvnith Sisodia,Luvnith Sisodia,7134,False,30,Kolkata Knight Riders
+Matheesha Pathirana,Matheesha Pathirana,8661,True,1800,Kolkata Knight Riders
+Mustafizur Rahman,Mustafizur Rahman,4373,True,920,Kolkata Knight Riders
+Navdeep Saini,Navdeep Saini,4288,False,75,Kolkata Knight Riders
+Rachin Ravindra,Rachin Ravindra,4854,True,200,Kolkata Knight Riders
+Rahul Tripathi,Rahul Tripathi,1440,False,75,Kolkata Knight Riders
+Tejasvi Singh,Tejasvi Dahiya,58135,False,300,Kolkata Knight Riders
+Umran Malik,Umran Malik,25048,False,75,Kolkata Knight Riders
+Anrich Nortje,Anrich Nortje,7270,True,200,Lucknow Super Giants
+Avesh Khan,Avesh Khan,3653,False,975,Lucknow Super Giants
+George Linde,George Linde,4229,True,100,Lucknow Super Giants
+Himmat Singh,Himmat Singh,6526,False,30,Lucknow Super Giants
+Matthew Breetzke,Matthew Breetzke,6342,True,75,Lucknow Super Giants
+Naman Tiwari,Naman Tiwari,45965,False,100,Lucknow Super Giants
+Wanindu Hasaranga,Wanindu Hasaranga,4900,True,200,Lucknow Super Giants
+AM Ghazanfar,Allah Ghazanfar,32862,True,480,Mumbai Indians
+Atharva Ankolekar,Atharva Ankolekar,7279,False,30,Mumbai Indians
+Danish Malewar,Danish Malewar,48953,False,30,Mumbai Indians
+Deepak Chahar,Deepak Chahar,1813,False,925,Mumbai Indians
+Keshav Maharaj,Keshav Maharaj,1944,True,75,Mumbai Indians
+Krish Bhagat,Krish Bhagat,43917,False,30,Mumbai Indians
+Mahipal Lamror,Mahipal Lomror,4821,False,50,Mumbai Indians
+Mayank Markande,Mayank Markande,6683,False,30,Mumbai Indians
+Mayank Rawat,Mayank Rawat,6461,False,30,Mumbai Indians
+Mohammad Izhar,Mohd Izhar,71311,False,30,Mumbai Indians
+Robin Minz,Robin Minz,31529,False,65,Mumbai Indians
+Ruchit Ahir,Ruchit Ahir,31205,False,30,Mumbai Indians
+Trent Boult,Trent Boult,2320,True,1250,Mumbai Indians
+Lockie Ferguson,Lockie Ferguson,4692,True,200,Punjab Kings
+Mitch Owen,Mitchell Owen,19781,True,300,Punjab Kings
+Nehal Wadhera,Nehal Wadhera,7059,False,420,Punjab Kings
+Pravin Dubey,Praveen Dubey,2790,False,30,Punjab Kings
+Pyla Avinash,Pyla Avinash,19098,False,30,Punjab Kings
+Vishal Nishad,Vishal Nishad,58864,False,30,Punjab Kings
+Adam Milne,Adam Milne,1487,True,240,Rajasthan Royals
+Emanjot Chahal,Emanjot Singh Chahal,43965,False,30,Rajasthan Royals
+Kuldeep Sen,Kuldeep Sen,7545,False,75,Rajasthan Royals
+Kwena Maphaka,Kwena Maphaka,26663,True,150,Rajasthan Royals
+Ravi Singh,Ravi Singh,60700,False,95,Rajasthan Royals
+Shimron Hetmyer,Shimron Hetmyer,3297,True,1100,Rajasthan Royals
+Tushar Deshpande,Tushar Deshpande,6806,False,650,Rajasthan Royals
+Vignesh Puthur,Vignesh Puthur,48557,False,30,Rajasthan Royals
+Yudhvir Charak,Yudhvir Singh,8580,False,35,Rajasthan Royals
+Jacob Bethell,Jacob Bethell,23311,True,260,Royal Challengers Bengaluru
+Mangesh Yadav,Mangesh Yadav,36328,False,520,Royal Challengers Bengaluru
+Richard Gleeson,Richard Gleeson,5562,True,160,Royal Challengers Bengaluru
+Satvik Deswal,Satvik Deswal,68280,False,30,Royal Challengers Bengaluru
+Swapnil Singh,Swapnil Singh,1701,False,50,Royal Challengers Bengaluru
+Vihaan Malhotra,Vihaan Malhotra,43996,False,30,Royal Challengers Bengaluru
+Amit Kumar,Amit Kumar,23408,False,30,Sunrisers Hyderabad
+David Payne,David Payne,1556,True,150,Sunrisers Hyderabad
+Dilshan Madushanka,Dilshan Madushanka,7689,True,75,Sunrisers Hyderabad
+Gerald Coetzee,Gerald Coetzee,6628,True,200,Sunrisers Hyderabad
+Jaydev Unadkat,Jaydev Unadkat,1071,False,100,Sunrisers Hyderabad
+Kamindu Mendis,Kamindu Mendis,4904,True,75,Sunrisers Hyderabad
+Onkar Tarmale,Omkar Tarmale,66513,False,30,Sunrisers Hyderabad
+R.S.Ambrish,RS Ambrish,63497,False,30,Sunrisers Hyderabad
+Shivam Mavi,Shivam Mavi,6286,False,75,Sunrisers Hyderabad
+Travis Head,Travis Head,2367,True,1400,Sunrisers Hyderabad
