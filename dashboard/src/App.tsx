@@ -34,15 +34,15 @@ export default function App() {
 
   // Load verified data
   useEffect(() => {
-    fetch('/data/summary.json').then(r => r.json()).then(setSummary).catch(console.error);
-    fetch('/data/retained_squad.json').then(r => r.json()).then(setRetainedSquad).catch(console.error);
-    fetch('/data/strategic_shortlist.json').then(r => r.json()).then(setShortlist).catch(console.error);
-    fetch('/data/top_batters.json').then(r => r.json()).then(setBatters).catch(console.error);
-    fetch('/data/top_bowlers.json').then(r => r.json()).then(setBowlers).catch(console.error);
-    fetch('/data/hidden_gems.json').then(r => r.json()).then(setHiddenGems).catch(console.error);
-    fetch('/data/scenarios.json').then(r => r.json()).then(setScenarios).catch(console.error);
-    fetch('/data/active_pool.json').then(r => r.json()).then(setActivePool).catch(console.error);
-    fetch('/data/pathirana_audit.json').then(r => r.json()).then(setPathirana).catch(console.error);
+    fetch('./data/summary.json').then(r => r.json()).then(setSummary).catch(console.error);
+    fetch('./data/retained_squad.json').then(r => r.json()).then(setRetainedSquad).catch(console.error);
+    fetch('./data/strategic_shortlist.json').then(r => r.json()).then(setShortlist).catch(console.error);
+    fetch('./data/top_batters.json').then(r => r.json()).then(setBatters).catch(console.error);
+    fetch('./data/top_bowlers.json').then(r => r.json()).then(setBowlers).catch(console.error);
+    fetch('./data/hidden_gems.json').then(r => r.json()).then(setHiddenGems).catch(console.error);
+    fetch('./data/scenarios.json').then(r => r.json()).then(setScenarios).catch(console.error);
+    fetch('./data/active_pool.json').then(r => r.json()).then(setActivePool).catch(console.error);
+    fetch('./data/pathirana_audit.json').then(r => r.json()).then(setPathirana).catch(console.error);
   }, []);
 
   // Filtered Batters
@@ -183,7 +183,7 @@ export default function App() {
             <div className="flex flex-col items-center justify-center p-6 bg-white/90 rounded-3xl border border-pink-200 shadow-[0_8px_30px_rgb(229,0,114,0.08)] backdrop-blur-md max-w-xs w-full">
               <div className="p-3 bg-gradient-to-b from-pink-50 to-white rounded-2xl border border-pink-100 mb-3 w-full flex items-center justify-center">
                 <img 
-                  src="/rr_logo.png" 
+                  src="./rr_logo.png" 
                   alt="Rajasthan Royals Official Crest" 
                   className="h-20 w-auto object-contain filter drop-shadow-sm hover:scale-105 transition-transform duration-300"
                 />
@@ -203,7 +203,7 @@ export default function App() {
           <div className="flex items-center justify-between h-16">
             {/* Small Brand Identity */}
             <div className="flex items-center gap-3">
-              <img src="/rr_logo.png" alt="RR" className="h-8 w-auto object-contain" />
+              <img src="./rr_logo.png" alt="RR" className="h-8 w-auto object-contain" />
               <div className="hidden sm:block">
                 <span className="font-extrabold text-[#171A35] text-sm tracking-tight">SupeRR Selector</span>
                 <span className="ml-1.5 text-[11px] font-bold text-[#E50072] bg-pink-50 px-2 py-0.5 rounded-full border border-pink-200">2027</span>
@@ -1253,7 +1253,7 @@ export default function App() {
       <footer className="bg-white border-t border-pink-200/80 py-8 mt-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-slate-500">
           <div className="flex items-center gap-3">
-            <img src="/rr_logo.png" alt="RR Logo" className="h-7 w-auto object-contain" />
+            <img src="./rr_logo.png" alt="RR Logo" className="h-7 w-auto object-contain" />
             <div>
               <span className="font-bold text-[#171A35]">Rajasthan Royals SupeRR Selector Season 2</span>
               <span className="block text-[11px] text-slate-400">Official IPL 2027 Auction Strategy Portal</span>
