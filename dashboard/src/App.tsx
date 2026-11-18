@@ -9,6 +9,7 @@ import {
 } from 'recharts';
 
 export default function App() {
+  const num = (v: any, d: number = 2): string => (v != null && !isNaN(Number(v))) ? Number(v).toFixed(d) : '—';
   const [activeTab, setActiveTab] = useState<'overview' | 'shortlist' | 'batters' | 'bowlers' | 'gems' | 'scenarios' | 'pathirana' | 'pool' | 'methodology'>('overview');
   
   // Data state
@@ -32,38 +33,57 @@ export default function App() {
   const [poolRoleFilter, setPoolRoleFilter] = useState('All');
   const [poolOverseasFilter, setPoolOverseasFilter] = useState('All');
 
-  // Load verified data
+  // Safe data fetcher with dual-path resolution (absolute / relative fallback)
   useEffect(() => {
-    fetch('./data/summary.json').then(r => r.json()).then(setSummary).catch(console.error);
-    fetch('./data/retained_squad.json').then(r => r.json()).then(setRetainedSquad).catch(console.error);
-    fetch('./data/strategic_shortlist.json').then(r => r.json()).then(setShortlist).catch(console.error);
-    fetch('./data/top_batters.json').then(r => r.json()).then(setBatters).catch(console.error);
-    fetch('./data/top_bowlers.json').then(r => r.json()).then(setBowlers).catch(console.error);
-    fetch('./data/hidden_gems.json').then(r => r.json()).then(setHiddenGems).catch(console.error);
-    fetch('./data/scenarios.json').then(r => r.json()).then(setScenarios).catch(console.error);
-    fetch('./data/active_pool.json').then(r => r.json()).then(setActivePool).catch(console.error);
-    fetch('./data/pathirana_audit.json').then(r => r.json()).then(setPathirana).catch(console.error);
+    const loadJson = async (filename: string, setter: (data: any) => void) => {
+      const paths = [`/data/${filename}`, `./data/${filename}`, `data/${filename}`];
+      for (const p of paths) {
+        try {
+          const res = await fetch(p);
+          if (res.ok) {
+            const data = await res.json();
+            setter(data);
+            return;
+          }
+        } catch (_) {
+          // try next path
+        }
+      }
+    };
+
+    loadJson('summary.json', setSummary);
+    loadJson('retained_squad.json', setRetainedSquad);
+    loadJson('strategic_shortlist.json', setShortlist);
+    loadJson('top_batters.json', setBatters);
+    loadJson('top_bowlers.json', setBowlers);
+    loadJson('hidden_gems.json', setHiddenGems);
+    loadJson('scenarios.json', setScenarios);
+    loadJson('active_pool.json', setActivePool);
+    loadJson('pathirana_audit.json', setPathirana);
   }, []);
 
   // Filtered Batters
-  const filteredBatters = batters.filter(b => {
-    if (batIndianOnly && !b.is_indian) return false;
-    if (batSpecOnly && !b.is_specialist) return false;
+  const filteredBatters = (batters || []).filter(b => {
+    if (batIndianOnly && !b?.is_indian) return false;
+    if (batSpecOnly && !b?.is_specialist) return false;
     return true;
   });
 
   // Filtered Bowlers
-  const filteredBowlers = bowlers.filter(b => {
-    if (bowlIndianOnly && !b.is_indian) return false;
+  const filteredBowlers = (bowlers || []).filter(b => {
+    if (bowlIndianOnly && !b?.is_indian) return false;
     return true;
   });
 
   // Filtered Pool
-  const filteredPool = activePool.filter(p => {
-    const matchesSearch = p.player.toLowerCase().includes(poolSearch.toLowerCase()) || 
-                          p.country.toLowerCase().includes(poolSearch.toLowerCase()) ||
-                          p.last_franchise.toLowerCase().includes(poolSearch.toLowerCase());
-    const matchesRole = poolRoleFilter === 'All' || p.role.toLowerCase().includes(poolRoleFilter.toLowerCase());
+  const filteredPool = (activePool || []).filter(p => {
+    if (!p) return false;
+    const name = (p.player || '').toLowerCase();
+    const country = (p.country || '').toLowerCase();
+    const franchise = (p.last_franchise || '').toLowerCase();
+    const query = (poolSearch || '').toLowerCase();
+    const matchesSearch = !query || name.includes(query) || country.includes(query) || franchise.includes(query);
+    const matchesRole = poolRoleFilter === 'All' || (p.role || '').toLowerCase().includes(poolRoleFilter.toLowerCase());
     const matchesOS = poolOverseasFilter === 'All' || 
                       (poolOverseasFilter === 'Indian' && !p.is_overseas) ||
                       (poolOverseasFilter === 'Overseas' && p.is_overseas);
@@ -71,33 +91,35 @@ export default function App() {
   });
 
   // Chart data preparation
-  const top10BattersChartData = filteredBatters.slice(0, 10).map(b => ({
-    name: b.player.split(' ').pop() || b.player,
-    fullName: b.player,
-    pressSR: b.press_sr,
-    baseSR: b.base_sr,
-    clutch: b.delta_sr,
-    ppr: b.ppr
+  const top10BattersChartData = (filteredBatters || []).slice(0, 10).map(b => ({
+    name: b?.player ? (b.player.split(' ').pop() || b.player) : 'Batter',
+    fullName: b?.player || 'Player',
+    pressSR: b?.press_sr || 0,
+    baseSR: b?.base_sr || 0,
+    clutch: b?.delta_sr || 0,
+    ppr: b?.ppr || 0
   }));
 
-  const top10BowlersChartData = filteredBowlers.slice(0, 10).map(b => ({
-    name: b.player.split(' ').pop() || b.player,
-    fullName: b.player,
-    pressEcon: b.press_econ,
-    baseEcon: b.base_econ,
-    deltaEcon: b.delta_econ,
-    ppr: b.ppr
+  const top10BowlersChartData = (filteredBowlers || []).slice(0, 10).map(b => ({
+    name: b?.player ? (b.player.split(' ').pop() || b.player) : 'Bowler',
+    fullName: b?.player || 'Player',
+    pressEcon: b?.press_econ || 0,
+    baseEcon: b?.base_econ || 0,
+    deltaEcon: b?.delta_econ || 0,
+    ppr: b?.ppr || 0
   }));
 
-  const shortlistChartData = shortlist.slice(0, 8).map(s => ({
-    name: s.player.split(' ').pop() || s.player,
-    fullName: s.player,
-    PPR: s.ppr,
-    AOR: s.aor,
-    SRR: normType === 'pct' ? s.srr_pct : s.srr_minmax
+  const shortlistChartData = (shortlist || []).slice(0, 8).map(s => ({
+    name: s?.player ? (s.player.split(' ').pop() || s.player) : 'Target',
+    fullName: s?.player || 'Player',
+    PPR: s?.ppr || 0,
+    AOR: s?.aor || 0,
+    SRR: normType === 'pct' ? (s?.srr_pct || 0) : (s?.srr_minmax || 0)
   }));
 
-  const currentScenario = scenarios.find(s => s.scenario_id.includes(selectedScenario)) || scenarios[0];
+  const currentScenario = (scenarios && scenarios.length > 0)
+    ? (scenarios.find(s => s?.scenario_id?.includes(selectedScenario)) || scenarios[0])
+    : null;
 
   return (
     <div className="min-h-screen bg-[#FFF5F9] text-[#171A35] font-sans">
@@ -183,7 +205,7 @@ export default function App() {
             <div className="flex flex-col items-center justify-center p-6 bg-white/90 rounded-3xl border border-pink-200 shadow-[0_8px_30px_rgb(229,0,114,0.08)] backdrop-blur-md max-w-xs w-full">
               <div className="p-3 bg-gradient-to-b from-pink-50 to-white rounded-2xl border border-pink-100 mb-3 w-full flex items-center justify-center">
                 <img 
-                  src="./rr_logo.png" 
+                  src="/rr_logo.png" onError={(e) => { e.currentTarget.src = "./rr_logo.png"; }} 
                   alt="Rajasthan Royals Official Crest" 
                   className="h-20 w-auto object-contain filter drop-shadow-sm hover:scale-105 transition-transform duration-300"
                 />
@@ -203,7 +225,7 @@ export default function App() {
           <div className="flex items-center justify-between h-16">
             {/* Small Brand Identity */}
             <div className="flex items-center gap-3">
-              <img src="./rr_logo.png" alt="RR" className="h-8 w-auto object-contain" />
+              <img src="/rr_logo.png" onError={(e) => { e.currentTarget.src = "./rr_logo.png"; }} alt="RR" className="h-8 w-auto object-contain" />
               <div className="hidden sm:block">
                 <span className="font-extrabold text-[#171A35] text-sm tracking-tight">SupeRR Selector</span>
                 <span className="ml-1.5 text-[11px] font-bold text-[#E50072] bg-pink-50 px-2 py-0.5 rounded-full border border-pink-200">2027</span>
@@ -507,19 +529,19 @@ export default function App() {
                             </span>
                           </td>
                           <td className="py-3 px-4 text-center font-mono">
-                            <span className="font-bold text-slate-800">{target.ppr.toFixed(1)}</span>
-                            <span className="text-[10px] text-slate-400 block">({normPpr.toFixed(1)})</span>
+                            <span className="font-bold text-slate-800">{num(target?.ppr, 1)}</span>
+                            <span className="text-[10px] text-slate-400 block">({num(normPpr, 1)})</span>
                           </td>
                           <td className="py-3 px-4 text-center font-mono font-bold text-slate-800">
-                            {target.aor.toFixed(1)}
+                            {num(target?.aor, 1)}
                           </td>
                           <td className="py-3 px-4 text-center">
                             <span className="inline-block px-2.5 py-1 rounded-full text-xs font-black bg-gradient-to-r from-[#E50072] to-[#B00055] text-white shadow-xs">
-                              {finalSrr.toFixed(2)}
+                              {num(finalSrr, 2)}
                             </span>
                           </td>
                           <td className="py-3 px-4 text-center font-bold text-emerald-700">
-                            ₹{target.est_price_cr.toFixed(2)} Cr
+                            ₹{num(target?.est_price_cr, 2)} Cr
                           </td>
                           <td className="py-3 px-4 text-center">
                             <span className="text-[10px] font-extrabold px-2 py-0.5 rounded border border-pink-200 text-[#E50072] bg-white">
@@ -632,16 +654,16 @@ export default function App() {
                           <span className="font-bold text-[#171A35]">{b.press_runs}</span>
                           <span className="text-slate-400 text-[11px]"> ({b.press_balls}b)</span>
                         </td>
-                        <td className="py-3 px-4 text-center font-bold text-[#E50072] font-mono">{b.press_sr.toFixed(2)}</td>
-                        <td className="py-3 px-4 text-center font-mono text-slate-600">{b.base_sr.toFixed(2)}</td>
+                        <td className="py-3 px-4 text-center font-bold text-[#E50072] font-mono">{num(b?.press_sr, 2)}</td>
+                        <td className="py-3 px-4 text-center font-mono text-slate-600">{num(b?.base_sr, 2)}</td>
                         <td className="py-3 px-4 text-center font-mono font-bold">
                           <span className={b.delta_sr >= 0 ? 'text-emerald-600' : 'text-rose-600'}>
-                            {b.delta_sr >= 0 ? `+${b.delta_sr.toFixed(2)}` : b.delta_sr.toFixed(2)}
+                            {(Number(b?.delta_sr) >= 0 ? "+" : "") + num(b?.delta_sr, 2)}
                           </span>
                         </td>
                         <td className="py-3 px-4 text-center font-mono">
                           <span className="px-2.5 py-1 rounded-full text-xs font-black bg-pink-100 text-[#B00055] border border-pink-200">
-                            {b.ppr.toFixed(2)}
+                            {num(b?.ppr, 2)}
                           </span>
                         </td>
                       </tr>
@@ -738,16 +760,16 @@ export default function App() {
                         <td className="py-3 px-4 text-center font-medium">{b.matches}</td>
                         <td className="py-3 px-4 text-center font-mono font-bold text-[#171A35]">{b.press_wkts}</td>
                         <td className="py-3 px-4 text-center font-mono text-slate-600">{b.press_legal_balls}</td>
-                        <td className="py-3 px-4 text-center font-bold text-[#E50072] font-mono">{b.press_econ.toFixed(2)}</td>
-                        <td className="py-3 px-4 text-center font-mono text-slate-600">{b.base_econ.toFixed(2)}</td>
+                        <td className="py-3 px-4 text-center font-bold text-[#E50072] font-mono">{num(b?.press_econ, 2)}</td>
+                        <td className="py-3 px-4 text-center font-mono text-slate-600">{num(b?.base_econ, 2)}</td>
                         <td className="py-3 px-4 text-center font-mono font-bold">
                           <span className={b.delta_econ <= 0 ? 'text-emerald-600' : 'text-slate-600'}>
-                            {b.delta_econ >= 0 ? `+${b.delta_econ.toFixed(2)}` : b.delta_econ.toFixed(2)}
+                            {(Number(b?.delta_econ) >= 0 ? "+" : "") + num(b?.delta_econ, 2)}
                           </span>
                         </td>
                         <td className="py-3 px-4 text-center font-mono">
                           <span className="px-2.5 py-1 rounded-full text-xs font-black bg-pink-100 text-[#B00055] border border-pink-200">
-                            {b.ppr.toFixed(2)}
+                            {num(b?.ppr, 2)}
                           </span>
                         </td>
                       </tr>
@@ -798,15 +820,15 @@ export default function App() {
                     <div className="grid grid-cols-3 gap-2 mt-4 p-3 bg-pink-50/50 rounded-xl border border-pink-100 text-center">
                       <div>
                         <div className="text-[10px] text-slate-500 uppercase font-semibold">PPR</div>
-                        <div className="text-sm font-black text-[#171A35]">{gem.ppr.toFixed(1)}</div>
+                        <div className="text-sm font-black text-[#171A35]">{num(gem?.ppr, 1)}</div>
                       </div>
                       <div>
                         <div className="text-[10px] text-slate-500 uppercase font-semibold">AOR</div>
-                        <div className="text-sm font-black text-[#171A35]">{gem.aor.toFixed(1)}</div>
+                        <div className="text-sm font-black text-[#171A35]">{num(gem?.aor, 1)}</div>
                       </div>
                       <div>
                         <div className="text-[10px] text-slate-500 uppercase font-semibold">SRR (Pct)</div>
-                        <div className="text-sm font-black text-[#E50072]">{gem.srr_pct.toFixed(1)}</div>
+                        <div className="text-sm font-black text-[#E50072]">{num(gem?.srr_pct, 1)}</div>
                       </div>
                     </div>
 
@@ -826,7 +848,7 @@ export default function App() {
                   {/* Estimated Price Footer */}
                   <div className="pt-3 border-t border-pink-100 flex items-center justify-between">
                     <span className="text-[11px] font-semibold text-slate-500">Rec. Acquisition Range</span>
-                    <span className="text-sm font-black text-emerald-700">₹{gem.rec_price_cr.toFixed(2)} Cr</span>
+                    <span className="text-sm font-black text-emerald-700">₹{num(gem?.rec_price_cr, 2)} Cr</span>
                   </div>
                 </div>
               ))}
@@ -895,12 +917,12 @@ export default function App() {
                   <div className="flex items-center gap-4 bg-pink-50/60 px-4 py-2 rounded-xl border border-pink-100">
                     <div>
                       <span className="text-[10px] text-slate-500 uppercase font-semibold block">Total Outlay</span>
-                      <span className="text-base font-black text-rose-700">₹{currentScenario.total_spend_cr.toFixed(2)} Cr</span>
+                      <span className="text-base font-black text-rose-700">₹{num(currentScenario?.total_spend_cr, 2)} Cr</span>
                     </div>
                     <div className="w-px h-8 bg-pink-200" />
                     <div>
                       <span className="text-[10px] text-slate-500 uppercase font-semibold block">Safety Buffer</span>
-                      <span className="text-base font-black text-emerald-700">₹{currentScenario.remaining_buffer_cr.toFixed(2)} Cr</span>
+                      <span className="text-base font-black text-emerald-700">₹{num(currentScenario?.remaining_buffer_cr, 2)} Cr</span>
                     </div>
                   </div>
                 </div>
@@ -1138,7 +1160,7 @@ export default function App() {
                         </td>
                         <td className="py-3 px-4 text-slate-600">{player.role}</td>
                         <td className="py-3 px-4 text-center font-mono font-bold text-slate-800">
-                          {player.aor_score ? player.aor_score.toFixed(1) : '—'}
+                          {num(player?.aor_score, 1)}
                         </td>
                         <td className="py-3 px-4 text-center">
                           <span className="text-[10px] font-bold text-[#B00055]">
@@ -1253,7 +1275,7 @@ export default function App() {
       <footer className="bg-white border-t border-pink-200/80 py-8 mt-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-slate-500">
           <div className="flex items-center gap-3">
-            <img src="./rr_logo.png" alt="RR Logo" className="h-7 w-auto object-contain" />
+            <img src="/rr_logo.png" onError={(e) => { e.currentTarget.src = "./rr_logo.png"; }} alt="RR Logo" className="h-7 w-auto object-contain" />
             <div>
               <span className="font-bold text-[#171A35]">Rajasthan Royals SupeRR Selector Season 2</span>
               <span className="block text-[11px] text-slate-400">Official IPL 2027 Auction Strategy Portal</span>
